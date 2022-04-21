@@ -23,7 +23,7 @@ USER-AGENT,Resilio Sync*,海外服务
 USER-AGENT,WhatsApp*,海外服务
 
 # > Google Voice
-HOST,voice.telephony.goog,海外服务
+HOST,voice.telephony.goog,美国服务
 
 # > Line
 HOST-SUFFIX,lin.ee,海外服务
