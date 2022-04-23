@@ -122,7 +122,7 @@ USER-AGENT,Spotify*,海外服务
 IP-CIDR,35.186.224.47/32,海外服务
 
 # > YouTube 
-USER-AGENT,*youtube*,香港服务
+
 USER-AGENT,YouTube*,香港服务
 HOST-KEYWORD,youtube,香港服务
 HOST,yt3.ggpht.com,香港服务
