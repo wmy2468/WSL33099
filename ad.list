@@ -352,7 +352,7 @@ HOST,ads.yahoo.de,屏蔽广告
 
 # (Z)
 # > Zhihu
-USER-AGENT,AVOS*屏蔽广告
+USER-AGENT,AVOS*,屏蔽广告
 HOST,appcloud2.in.zhihu.com,屏蔽广告
 HOST,mqtt.zhihu.com,屏蔽广告
 HOST,sugar.zhihu.com,屏蔽广告
