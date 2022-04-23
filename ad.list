@@ -6,7 +6,7 @@
 
 # (0~9)
 # > 51wnl
-HOST-SUFFIX,ad.51wnl-cq.com,屏蔽广告,屏蔽广告
+HOST-SUFFIX,ad.51wnl-cq.com,屏蔽广告
 HOST-SUFFIX,adextra.51wnl-cq.com,屏蔽广告
 HOST,log.51wnl-cq.com,屏蔽广告
 HOST,r.51wnl-cq.com,屏蔽广告
