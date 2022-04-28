@@ -22,9 +22,10 @@ DOMAIN,ntservicepack.microsoft.com
 DOMAIN-SUFFIX,cm.steampowered.com // Steam Connect Manager Servers
 DOMAIN,api.steampowered.com
 # > Tencent
-IP-CIDR,182.254.116.0/24,no-resolve
-IP-CIDR,203.205.238.0/23,no-resolve
-IP-CIDR,203.205.254.0/23,no-resolve
+IP-CIDR,182.254.116.0/24,direct
+IP-CIDR,203.205.238.0/23,direct
+IP-CIDR,203.205.254.0/23,direct
+HOST-KEYWORD,wechat,direct 
 # > IP Query
 DOMAIN,ip.istatmenus.app
 DOMAIN,sms.imagetasks.com
