@@ -155,7 +155,7 @@ IP-CIDR,35.186.224.47/32,美国服务
 # IP6-CIDR: 1
 # TOTAL: 181
 HOST,youtubei.googleapis.com,香港服务
-HOST,yt3.ggpht.com,YouTube
+HOST,yt3.ggpht.com,香港服务
 HOST-SUFFIX,ggpht.cn,香港服务
 HOST-SUFFIX,ggpht.com,香港服务
 HOST-SUFFIX,googlevideo.com,香港服务
@@ -263,8 +263,8 @@ HOST-SUFFIX,youtube.gt,香港服务
 HOST-SUFFIX,youtube.hk,香港服务
 HOST-SUFFIX,youtube.hr,香港服务
 HOST-SUFFIX,youtube.hu,香港服务
-HOST-SUFFIX,YouTube.ie,YouTube
-HOST-SUFFIX,YouTube.in,YouTube
+HOST-SUFFIX,YouTube.ie,香港服务
+HOST-SUFFIX,YouTube.in,香港服务
 HOST-SUFFIX,youtube.iq,香港服务
 HOST-SUFFIX,youtube.is,香港服务
 HOST-SUFFIX,youtube.it,香港服务
@@ -312,7 +312,7 @@ HOST-SUFFIX,youtube.tn,香港服务
 HOST-SUFFIX,youtube.tv,香港服务
 HOST-SUFFIX,youtube.ua,香港服务
 HOST-SUFFIX,youtube.ug,香港服务
-HOST-SUFFIX,YouTube.uy,YouTube
+HOST-SUFFIX,YouTube.uy,香港服务
 HOST-SUFFIX,youtube.vn,香港服务
 HOST-SUFFIX,youtubeeducation.com,香港服务
 HOST-SUFFIX,youtubefanfest.com,香港服务
