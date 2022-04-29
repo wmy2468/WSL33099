@@ -1,5 +1,23 @@
 #海外服务
 
+# NAME: GitHub
+# AUTHOR: blackmatrix7
+# REPO: https://github.com/blackmatrix7/ios_rule_script
+# UPDATED: 2022-01-18 23:33:29
+# HOST-KEYWORD: 1
+# HOST-SUFFIX: 9
+# TOTAL: 10
+HOST-SUFFIX,atom.io,香港服务
+HOST-SUFFIX,dependabot.com,香港服务
+HOST-SUFFIX,ghcr.io,香港服务
+HOST-SUFFIX,git.io,香港服务
+HOST-SUFFIX,myoctocat.com,香港服务
+HOST-SUFFIX,npm.community,香港服务
+HOST-SUFFIX,npmjs.com,香港服务
+HOST-SUFFIX,npmjs.org,香港服务
+HOST-SUFFIX,rawgit.com,香港服务
+HOST-KEYWORD,github,香港服务
+
 # > Emby
 HOST-SUFFIX,emby-cf.plusmedia.site,海外服务
 HOST-SUFFIX,tv.emby.media,海外服务
