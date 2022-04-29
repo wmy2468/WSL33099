@@ -1,6 +1,6 @@
 #大陆服务
 #update 2021.9.23
-
+geoip,cn,大陆服务
 # UA
 USER-AGENT,hide*,大陆服务
 USER-AGENT,MicroMessenger*,大陆服务
