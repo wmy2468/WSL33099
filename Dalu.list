@@ -537,3 +537,9 @@ HOST-SUFFIX,zimuzu.tv
 HOST-SUFFIX,zmz002.com
 HOST-SUFFIX,cn
 IP-CIDR,1.255.62.0/24
+ip-cidr, 10.0.0.0/8
+ip-cidr, 17.0.0.0/8
+ip-cidr, 100.64.0.0/10
+ip-cidr, 127.0.0.0/8
+ip-cidr, 172.16.0.0/12
+ip-cidr, 192.168.0.0/16
