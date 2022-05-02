@@ -3122,3 +3122,8 @@ IP-CIDR,96.23.20.70/32,海外服务
 IP-CIDR,96.23.20.74/32,海外服务
 IP-CIDR,96.23.20.78/32,海外服务
 IP-CIDR,96.4.63.99/32,海外服务
+#其他
+host, e1.o.lencr.org, 海外服务
+host, stc-anycast.net, 海外服务
+host-keyword, merlinblog, 海外服务
+host-keyword, ddxinwen, 海外服务
