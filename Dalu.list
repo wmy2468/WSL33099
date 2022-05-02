@@ -543,3 +543,19 @@ ip-cidr, 100.64.0.0/10
 ip-cidr, 127.0.0.0/8
 ip-cidr, 172.16.0.0/12
 ip-cidr, 192.168.0.0/16
+#host, ocsp.apple.com, reject
+
+
+# 其他
+#YouTube 去底部广告
+#host-suffix, ehg-youtube.hitbox.com, reject
+# 屏蔽系统更新
+#host, ns.itunes.apple.com,屏蔽广告
+#host, appldnld.apple.com,屏蔽广告
+#host, mesu.apple.com,屏蔽广告
+#host, xp.apple.com,屏蔽广告
+#host, gdmf.apple.com,屏蔽广告
+# 避免迅雷版权问题
+#host, hub5idx.v6.shub.sandai.net,reject
+#host, hub5emu.v6.shub.sandai.net,reject
+#host, hub5btmain.v6.shub.sandai.net,reject
