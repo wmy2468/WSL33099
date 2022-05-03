@@ -308,9 +308,6 @@ DOMAIN-SUFFIX,line.me,海外服务
 DOMAIN-SUFFIX,line-apps.com,海外服务
 DOMAIN-SUFFIX,line-scdn.net,海外服务
 DOMAIN-SUFFIX,naver.jp,海外服务
-IP-CIDR,125.209.208.0,海外服务
-IP-CIDR,147.92.128.0,海外服务
-IP-CIDR,203.104.144.0,海外服务
 # > Meta
 DOMAIN-SUFFIX,accountkit.com,海外服务
 DOMAIN-SUFFIX,cdninstagram.com,海外服务
@@ -372,15 +369,6 @@ DOMAIN-SUFFIX,telegra.ph,海外服务
 DOMAIN-SUFFIX,telegram.me,海外服务
 DOMAIN-SUFFIX,telegram.org,海外服务
 DOMAIN-SUFFIX,telesco.pe,海外服务
-IP-CIDR,91.108.4.0,海外服务
-IP-CIDR,91.108.8.0,海外服务
-IP-CIDR,91.108.12.0,海外服务
-IP-CIDR,91.108.16.0,海外服务
-IP-CIDR,91.108.20.0,海外服务
-IP-CIDR,91.108.56.0,海外服务
-IP-CIDR,91.105.192.0,海外服务
-IP-CIDR,149.154.160.0,海外服务
-IP-CIDR,185.76.151.0,海外服务
 # > The Economist
 DOMAIN-SUFFIX,economist.com,海外服务
 DOMAIN-SUFFIX,static-economist.com,海外服务
