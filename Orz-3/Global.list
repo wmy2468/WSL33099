@@ -219,7 +219,7 @@ DOMAIN-SUFFIX,getoutline.org,海外服务
 DOMAIN-SUFFIX,ggpht.com,海外服务
 DOMAIN-SUFFIX,gmail.com,海外服务
 DOMAIN-SUFFIX,gmodules.com,海外服务
-# DOMAIN-SUFFIX,gstatic.com,海外服务
+DOMAIN-SUFFIX,gstatic.com,海外服务
 DOMAIN-SUFFIX,gvt0.com,海外服务
 DOMAIN-SUFFIX,gvt1.com,海外服务
 DOMAIN-SUFFIX,gvt3.com,海外服务
@@ -241,8 +241,7 @@ DOMAIN-SUFFIX,zynamics.com,海外服务
 DOMAIN-KEYWORD,google,海外服务
 DOMAIN-KEYWORD,.blogspot.,海外服务
 DOMAIN-SUFFIX,goog,海外服务
-# > Apple
-DOMAIN,testflight.apple.com,海外服务
+
 # > Automattic
 DOMAIN-SUFFIX,gravatar.com,海外服务
 DOMAIN-SUFFIX,tumblr.com,海外服务
