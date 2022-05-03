@@ -134,7 +134,7 @@ DOMAIN-SUFFIX,steemit.com,海外服务
 DOMAIN-SUFFIX,straitstimes.com,海外服务
 DOMAIN-SUFFIX,streamable.com,海外服务
 DOMAIN-SUFFIX,substack.com,海外服务
-DOMAIN-SUFFIX,swissinfo,海外服务.ch
+DOMAIN-SUFFIX,swissinfo.ch,海外服务
 DOMAIN-SUFFIX,tapatalk.com,海外服务
 DOMAIN-SUFFIX,techspot.com,海外服务
 DOMAIN-SUFFIX,textnow.me,海外服务
@@ -343,7 +343,7 @@ DOMAIN-SUFFIX,github.io,海外服务
 DOMAIN-SUFFIX,githubassets.com,海外服务
 DOMAIN-SUFFIX,githubusercontent.com,海外服务
 DOMAIN-SUFFIX,onedrive.live.com,海外服务
-DOMAIN-SUFFIX,streaming.mediaservices.windows.net
+DOMAIN-SUFFIX,streaming.mediaservices.windows.net,海外服务
 DOMAIN,assets1.xboxlive.com,海外服务
 DOMAIN,assets2.xboxlive.com,海外服务
 DOMAIN,az416426.vo.msecnd.net,海外服务
