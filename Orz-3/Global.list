@@ -308,10 +308,10 @@ DOMAIN-SUFFIX,line.me,海外服务
 DOMAIN-SUFFIX,line-apps.com,海外服务
 DOMAIN-SUFFIX,line-scdn.net,海外服务
 DOMAIN-SUFFIX,naver.jp,海外服务
-IP-CIDR,103.2.30.0/23,,海外服务
-IP-CIDR,125.209.208.0/20,,海外服务
-IP-CIDR,147.92.128.0/17,,海外服务
-IP-CIDR,203.104.144.0/21,,海外服务
+IP-CIDR,103.2.30,海外服务
+IP-CIDR,125.209.208.0,海外服务
+IP-CIDR,147.92.128.0,海外服务
+IP-CIDR,203.104.144.0,海外服务
 # > Meta
 DOMAIN-SUFFIX,accountkit.com,海外服务
 DOMAIN-SUFFIX,cdninstagram.com,海外服务
