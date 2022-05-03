@@ -6,7 +6,7 @@ DOMAIN-SUFFIX,anchor.fm,海外服务
 DOMAIN-SUFFIX,archive.fo,海外服务
 DOMAIN-SUFFIX,archive.org,海外服务
 DOMAIN-SUFFIX,archive.ph,海外服务
-DOMAIN-SUFFIX,archiveofo,海外服务urown.org,海外服务
+DOMAIN-SUFFIX,archiveofourown.org,海外服务
 DOMAIN-SUFFIX,artstation.com,海外服务
 DOMAIN-SUFFIX,ask.com,海外服务
 DOMAIN-SUFFIX,avg.com,海外服务
@@ -48,8 +48,8 @@ DOMAIN-SUFFIX,feedly.com,海外服务
 DOMAIN-SUFFIX,flickr.com,海外服务
 DOMAIN-SUFFIX,flipboard.com,海外服务
 DOMAIN-SUFFIX,flitto.com,海外服务
-DOMAIN-SUFFIX,fo,海外服务reignaffairs.com,海外服务
-DOMAIN-SUFFIX,fo,海外服务reignpolicy.com,海外服务
+DOMAIN-SUFFIX,foreignaffairs.com,海外服务
+DOMAIN-SUFFIX,foreignpolicy.com,海外服务
 DOMAIN-SUFFIX,ft.com,海外服务
 DOMAIN-SUFFIX,ftchinese.com,海外服务
 DOMAIN-SUFFIX,ftimg.net,海外服务
@@ -97,7 +97,7 @@ DOMAIN-SUFFIX,ok.ru,海外服务
 DOMAIN-SUFFIX,omny.fm,海外服务
 DOMAIN-SUFFIX,openvpn.net,海外服务
 DOMAIN-SUFFIX,owltail.com,海外服务
-DOMAIN-SUFFIX,oxfo,海外服务rdscholarship.com,海外服务
+DOMAIN-SUFFIX,oxfordscholarship.com,海外服务
 DOMAIN-SUFFIX,parsevideo.com,海外服务
 DOMAIN-SUFFIX,paste.ee,海外服务
 DOMAIN-SUFFIX,pastie.org,海外服务
@@ -138,9 +138,9 @@ DOMAIN-SUFFIX,swissinfo,海外服务.ch
 DOMAIN-SUFFIX,tapatalk.com,海外服务
 DOMAIN-SUFFIX,techspot.com,海外服务
 DOMAIN-SUFFIX,textnow.me,海外服务
-DOMAIN-SUFFIX,theage.com,海外服务.au
+DOMAIN-SUFFIX,theage.com.au,海外服务
 DOMAIN-SUFFIX,theatlantic.com,海外服务
-DOMAIN-SUFFIX,theaustralian.com,海外服务.au
+DOMAIN-SUFFIX,theaustralian.com.au,海外服务
 DOMAIN-SUFFIX,theconversation.com,海外服务
 DOMAIN-SUFFIX,thediplomat.com,海外服务
 DOMAIN-SUFFIX,theguardian.com,海外服务
@@ -225,7 +225,7 @@ DOMAIN-SUFFIX,gvt1.com,海外服务
 DOMAIN-SUFFIX,gvt3.com,海外服务
 DOMAIN-SUFFIX,itasoftware.com,海外服务
 DOMAIN-SUFFIX,on2.com,海外服务
-DOMAIN-SUFFIX,recaptcha.net
+DOMAIN-SUFFIX,recaptcha.net,海外服务
 DOMAIN-SUFFIX,schema.org,海外服务
 DOMAIN-SUFFIX,tensorflow.org,海外服务
 DOMAIN-SUFFIX,tenor.com,海外服务
@@ -301,7 +301,7 @@ DOMAIN-SUFFIX,dropboxapi.com,海外服务
 DOMAIN-SUFFIX,dropboxusercontent.com,海外服务
 # > Fastly
 DOMAIN-SUFFIX,freetls.fastly.net,海外服务
-DOMAIN,cloud-cdn-digitalocean-com,海外服务.global.ssl.fastly.net
+DOMAIN,cloud-cdn-digitalocean-com.global.ssl.fastly.net,海外服务
 DOMAIN,github.global.ssl.fastly.net,海外服务
 DOMAIN,nytimes.map.fastly.net,海外服务
 # > Line
