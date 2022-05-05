@@ -20,11 +20,12 @@ https://raw.githubusercontent.com/nameking77/Qx/main/music/wyy.txt, tag=音乐, 
 https://raw.githubusercontent.com/WSL33099/QuantumultX/main/NetEaseMusic/NetEaseMusic.list, tag=音乐服务, update-interval=172800, opt-parser=true, enabled=true
 
 
-这里只编辑配置规则，网易云音乐解锁订阅自行寻找。
+⚠️这里只编辑配置规则，网易云音乐解锁订阅自行寻找。
 2022年5月5日，暂时可用的节点订阅：
 https://raw.githubusercontent.com/nameking77/Qx/main/music/wyy.txt
 https://raw.githubusercontent.com/O7Y0/Attached/main/UnblockNeteaseMusic/UnblockNeteaseMusic.txt
 https://raw.githubusercontent.com/yyn618/QuantumultX-Script/main/UnlockNetease.list 
+
 更多信息请关注频道https://t.me/QuantX
 
 最后保存配置并将全部内容更新后，选择网易云音乐节点，打开网易云音乐APP即可解锁！
