@@ -7,16 +7,16 @@
 # HOST-KEYWORD: 1
 # HOST-SUFFIX: 9
 # TOTAL: 10
-HOST-SUFFIX,atom.io,香港服务
-HOST-SUFFIX,dependabot.com,香港服务
-HOST-SUFFIX,ghcr.io,香港服务
-HOST-SUFFIX,git.io,香港服务
-HOST-SUFFIX,myoctocat.com,香港服务
-HOST-SUFFIX,npm.community,香港服务
-HOST-SUFFIX,npmjs.com,香港服务
-HOST-SUFFIX,npmjs.org,香港服务
-HOST-SUFFIX,rawgit.com,香港服务
-HOST-KEYWORD,github,香港服务
+HOST-SUFFIX,atom.io,海外服务
+HOST-SUFFIX,dependabot.com,海外服务
+HOST-SUFFIX,ghcr.io,海外服务
+HOST-SUFFIX,git.io,海外服务
+HOST-SUFFIX,myoctocat.com,海外服务
+HOST-SUFFIX,npm.community,海外服务
+HOST-SUFFIX,npmjs.com,海外服务
+HOST-SUFFIX,npmjs.org,海外服务
+HOST-SUFFIX,rawgit.com,海外服务
+HOST-KEYWORD,github,海外服务
 
 # > Emby
 HOST-SUFFIX,emby-cf.plusmedia.site,海外服务
