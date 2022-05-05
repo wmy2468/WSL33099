@@ -73,13 +73,7 @@ HOST-SUFFIX,steamcommunity.com,海外服务
 HOST-SUFFIX,steampowered.com,海外服务
 HOST-SUFFIX,steamstatic.com,海外服务
 
-# > TikTok
-USER-AGENT,TikTok*,海外服务
-HOST-SUFFIX,muscdn.com,海外服务
-HOST-SUFFIX,musical.ly,海外服务
-HOST-SUFFIX,tiktokv.com,海外服务
-HOST-SUFFIX,tiktokcdn.com,海外服务
-HOST-KEYWORD,-tiktokcdn-com,海外服务
+
 
 # > Zooba
 USER-AGENT,battleroyale*,海外服务
