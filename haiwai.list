@@ -18,6 +18,37 @@ HOST-SUFFIX,npmjs.org,香港服务
 HOST-SUFFIX,rawgit.com,香港服务
 HOST-KEYWORD,github,香港服务
 
+
+
+# NAME: TikTok
+# AUTHOR: blackmatrix7
+# REPO: https://github.com/blackmatrix7/ios_rule_script
+# UPDATED: 2022-04-16 00:18:20
+# USER-AGENT: 1
+# HOST-SUFFIX: 12
+# HOST-KEYWORD: 5
+# HOST: 1
+# TOTAL: 19
+HOST,p16-tiktokcdn-com.akamaized.net,海外服务
+HOST-SUFFIX,byteoversea.com,海外服务
+HOST-SUFFIX,ibytedtos.com,海外服务
+HOST-SUFFIX,ibyteimg.com,海外服务
+HOST-SUFFIX,ipstatp.com,海外服务
+HOST-SUFFIX,muscdn.com,海外服务
+HOST-SUFFIX,musical.ly,海外服务
+HOST-SUFFIX,sgpstatp.com,海外服务
+HOST-SUFFIX,snssdk.com,海外服务
+HOST-SUFFIX,tik-tokapi.com,海外服务
+HOST-SUFFIX,tiktok.com,海外服务
+HOST-SUFFIX,tiktokcdn.com,海外服务
+HOST-SUFFIX,tiktokv.com,海外服务
+HOST-KEYWORD,-tiktokcdn-com,海外服务
+HOST-KEYWORD,musical.ly,海外服务
+HOST-KEYWORD,tiktok,海外服务
+HOST-KEYWORD,tiktokcdn-,海外服务
+HOST-KEYWORD,tiktokv,海外服务
+USER-AGENT,TikTok*,海外服务
+
 # > Emby
 HOST-SUFFIX,emby-cf.plusmedia.site,海外服务
 HOST-SUFFIX,tv.emby.media,海外服务
