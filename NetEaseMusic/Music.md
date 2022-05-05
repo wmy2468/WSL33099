@@ -6,33 +6,44 @@
 然后打开Quantumult X，在配置文件区域-点击编辑-在打开的配置界面中对应的【xxx】项后面添加以下内容，如果没有对应的【xxx】项则手动输入。
 第一种配置方法：
 
-在[server_local]下面添加：
+在[server_local]下面添加
+
 http=106.52.127.72:19951, fast-open=false, udp-relay=false, tag=解锁网易云音乐
 
-在[filter_local]下面添加：
+在[filter_local]下面添加
+
 host-suffix, music.126.net, direct
 
-在[filter_remote]下面添加：
+在[filter_remote]下面添加
+
 https://raw.githubusercontent.com/Hedilict/QuantumultX/master/Filter/NetEaseCloudMusic.list, tag=🙈 网易云音乐, enabled=true
 
-在[policy]下面添加：
+在[policy]下面添加
+
 static=🙈 网易云音乐, DIRECT, 解锁网易云音乐, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Netease_Music.png
+
 最后保存配置并将全部内容更新后，打开网易云音乐APP即可解锁！
 
 第二种配置方法
 
 [server_remote]
+
 https://raw.githubusercontent.com/I-am-R-E/QuantumultX/main/AgentNode/NeteaseMusicUnlock.list, tag=网易云音乐解锁1, img-url=pianokeys.system, update-interval=-1, opt-parser=false, enabled=true
+
 https://raw.githubusercontent.com/O7Y0/Attached/main/UnblockNeteaseMusic/UnblockNeteaseMusic.txt, tag=网易云音乐解锁2, img-url=pianokeys.system, update-interval=-1, opt-parser=false, enabled=true
 
 [filter_remote]
+
 https://raw.githubusercontents.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/NetEaseMusic/NetEaseMusic.list, tag=网易云音乐, force-policy=网易音乐, update-interval=-1, opt-parser=true, enabled=true
 
 [policy]
+
 static=网易音乐, direct, 网音检查, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Netease_Music.png
+
 static=网音检查, resource-tag-regex=网易云, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Netease_Music_Unlock.png
 
 [task_local]
+
 event-interaction https://raw.githubusercontents.com/I-am-R-E/QuantumultX/main/TaskLocal/NeteaseMusicUnlockCheck.js, tag=查询网易云音乐解锁, img-url=https://raw.githubusercontents.com/Orz-3/mini/master/Color/Clubhouse.png, enabled=true
 
 注意与排查：注意所对应位置，不要全部复制后就粘贴，也不要粘贴[xxx]这个内容，提示task_local里的内容错误就升级自己的qx，配置好后在网易音乐策略选择网音检查，然后在网音检查先长按节点查看是否可用，后面的延迟是访问qx里设置的网站延迟，不代表不可用，播放音乐可能需要时间加载，目前支持商店最新版本，  
