@@ -9,6 +9,11 @@
 [policy]
 
 static=音乐服务, porxy, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Netease.png
+static=解锁服务, server-tag-regex=Music, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Netease.png
+
+[server_remote]
+
+https://raw.githubusercontent.com/nameking77/Qx/main/music/wyy.txt, tag=音乐, update-interval=172800, opt-parser=true, enabled=true
 
 在[filter_remote]下面添加
 
