@@ -8,7 +8,7 @@
 
 [policy]
 
-static=音乐服务, porxy, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Netease.png
+static=音乐服务, 解锁服务, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Netease.png
 static=解锁服务, server-tag-regex=Music, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Netease.png
 
 [server_remote]
