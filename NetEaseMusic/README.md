@@ -1,6 +1,7 @@
 首先获取CA证书并信任ios系统比较特殊，需要先下载并信任CA证书才可以。
 
 首先用ios手机浏览器打开本页面，直接点击链接：https://raw.githubusercontent.com/nondanee/UnblockNeteaseMusic/master/ca.crt
+
 在弹出的对话框中点击允许下载CA证书，然后进入设置>通用>描述文件，安装CA证书，并在设置>通用>关于本机>证书信任设置 开启对CA证书的信任。
 
 然后打开Quantumult X，在配置文件区域-点击编辑-在打开的配置界面中对应的【xxx】项后面添加以下内容，如果没有对应的【xxx】项则手动输入。
@@ -23,8 +24,11 @@ https://raw.githubusercontent.com/WSL33099/QuantumultX/main/NetEaseMusic/NetEase
 
 ⚠️这里只编辑配置规则，网易云音乐解锁订阅自行寻找。
 2022年5月5日，暂时可用的节点订阅：
+
 https://raw.githubusercontent.com/nameking77/Qx/main/music/wyy.txt
+
 https://raw.githubusercontent.com/O7Y0/Attached/main/UnblockNeteaseMusic/UnblockNeteaseMusic.txt
+
 https://raw.githubusercontent.com/yyn618/QuantumultX-Script/main/UnlockNetease.list 
 
 更多信息请关注频道https://t.me/QuantX
