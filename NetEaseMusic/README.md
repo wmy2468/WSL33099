@@ -18,7 +18,7 @@ https://raw.githubusercontent.com/nameking77/Qx/main/music/wyy.txt, tag=音乐, 
 
 在[filter_remote]下面添加
 
-https://raw.githubusercontent.com/WSL33099/QuantumultX/main/NetEaseMusic/NetEaseMusic.list, tag=音乐服务, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/WSL33099/QuantumultX/main/NetEaseMusic/NetEaseMusic.list, tag=音乐服务, force-policy=解锁服务,update-interval=172800, opt-parser=true, enabled=true
 
 
 ⚠️这里只编辑配置规则，网易云音乐解锁订阅自行寻找。
