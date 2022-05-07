@@ -39,6 +39,22 @@ HOST-KEYWORD,github,香港服务
 # TOTAL: 1
 HOST-KEYWORD,www.google.,海外服务
 
+# NAME: GoogleDrive
+# AUTHOR: blackmatrix7
+# REPO: https://github.com/blackmatrix7/ios_rule_script
+# UPDATED: 2022-01-18 23:33:30
+# USER-AGENT: 3
+# HOST-SUFFIX: 4
+# HOST: 1
+# TOTAL: 8
+HOST,www.googleapis.com,海外服务
+HOST-SUFFIX,docs.google.com,海外服务
+HOST-SUFFIX,drive.google.com,海外服务
+HOST-SUFFIX,googledrive.com,海外服务
+HOST-SUFFIX,googleusercontent.com,海外服务
+USER-AGENT,%E4%BA%91%E7%AB%AF%E7%A1%AC%E7%9B%98*,海外服务
+USER-AGENT,*com.google.Drive*,海外服务
+USER-AGENT,Google.Drive*,海外服务
 
 # NAME: TikTok
 # AUTHOR: blackmatrix7
@@ -93,7 +109,6 @@ USER-AGENT,WhatsApp*,海外服务
 
 # > Google Voice
 HOST,voice.telephony.goog,美国服务
-
 HOST,lens.l.google.com,美国服务
 
 # > Line
@@ -882,8 +897,8 @@ IP-CIDR,69.63.176.0/20,海外服务
 IP-CIDR,74.119.76.0/22,海外服务
 
 # > Google
-IP-CIDR,173.194.0.0/16,美国服务
-IP-CIDR,74.125.0.0/16,美国服务
+IP-CIDR,173.194.0.0/16,海外服务
+IP-CIDR,74.125.0.0/16,海外服务
 
 # > Kakao Talk
 IP-CIDR,1.201.0.0/24,海外服务
