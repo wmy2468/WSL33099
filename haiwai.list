@@ -18,6 +18,15 @@ HOST-SUFFIX,npmjs.org,香港服务
 HOST-SUFFIX,rawgit.com,香港服务
 HOST-KEYWORD,github,香港服务
 
+HOST-KEYWORD,appledaily,海外服务
+HOST-KEYWORD,beetalk,海外服务
+HOST-KEYWORD,blogspot,海外服务
+HOST-KEYWORD,dropbox,海外服务
+HOST-KEYWORD,facebook,海外服务
+HOST-KEYWORD,instagram,海外服务
+HOST-KEYWORD,twitter,海外服务
+HOST-KEYWORD,whatsapp,海外服务
+# HOST-KEYWORD,google,美国服务
 
 
 # NAME: TikTok
@@ -779,16 +788,6 @@ HOST-SUFFIX,zoom.us,海外服务
 HOST-SUFFIX,zynamics.com,海外服务
 
 # > Force some domains which are fucked by GFW while resolving DNS,or do not respect the system Proxy
-HOST-KEYWORD,appledaily,海外服务
-HOST-KEYWORD,beetalk,海外服务
-HOST-KEYWORD,blogspot,海外服务
-HOST-KEYWORD,dropbox,海外服务
-HOST-KEYWORD,facebook,海外服务
-HOST-KEYWORD,github,海外服务
-HOST-KEYWORD,instagram,海外服务
-HOST-KEYWORD,twitter,海外服务
-HOST-KEYWORD,whatsapp,海外服务
-HOST-KEYWORD,google,美国服务
 HOST-SUFFIX,1e100.net,海外服务
 HOST-SUFFIX,2mdn.net,海外服务
 HOST-SUFFIX,abc.xyz,海外服务
