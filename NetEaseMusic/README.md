@@ -41,7 +41,7 @@ https://y.music.163.com/m/playlist?app_version=8.7.35&id=6962020176&userid=43721
 
 ⚠️这里只编辑配置规则，网易云音乐解锁订阅自行寻找。
 
-# 订阅
+# 订阅链接
 2022年5月5日，暂时可用的节点订阅：
 
 https://raw.githubusercontent.com/nameking77/Qx/main/music/wyy.txt
