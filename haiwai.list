@@ -1,5 +1,16 @@
 #海外服务
 
+
+HOST-KEYWORD,appledaily,海外服务
+HOST-KEYWORD,beetalk,海外服务
+HOST-KEYWORD,blogspot,海外服务
+HOST-KEYWORD,dropbox,海外服务
+HOST-KEYWORD,facebook,海外服务
+HOST-KEYWORD,instagram,海外服务
+HOST-KEYWORD,twitter,海外服务
+HOST-KEYWORD,whatsapp,海外服务
+# HOST-KEYWORD,google,美国服务
+
 # NAME: GitHub
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
@@ -18,15 +29,7 @@ HOST-SUFFIX,npmjs.org,香港服务
 HOST-SUFFIX,rawgit.com,香港服务
 HOST-KEYWORD,github,香港服务
 
-HOST-KEYWORD,appledaily,海外服务
-HOST-KEYWORD,beetalk,海外服务
-HOST-KEYWORD,blogspot,海外服务
-HOST-KEYWORD,dropbox,海外服务
-HOST-KEYWORD,facebook,海外服务
-HOST-KEYWORD,instagram,海外服务
-HOST-KEYWORD,twitter,海外服务
-HOST-KEYWORD,whatsapp,海外服务
-# HOST-KEYWORD,google,美国服务
+
 
 # NAME: GoogleSearch
 # AUTHOR: blackmatrix7
