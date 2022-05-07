@@ -1,3 +1,7 @@
+开始之前，给大家普及一个常识：目前网上出现的不同平台的解锁网易云变灰工具和脚本，其原理都不是破解网易云，只是将其它平台（如酷狗、QQ音乐、虾米...）能够播放的音源替换网易云音乐无版权/变灰/需会员的歌曲。
+
+1.1 IOS、iPadOS端安装并信任证书
+
 首先获取CA证书并信任ios系统比较特殊，需要先下载并信任CA证书才可以。
 
 首先用ios手机浏览器打开本页面，直接点击链接：https://github.com/WSL33099/QuantumultX/raw/main/NetEaseMusic/CA.crt
@@ -6,6 +10,9 @@
 
 然后打开Quantumult X，在配置文件区域-点击编辑-在打开的配置界面中对应的【xxx】项后面添加以下内容，如果没有对应的【xxx】项则手动输入。
 
+⚠️圈X配置全部编辑完全以后点击保存（不然会报错）
+
+1.2 为网易云音乐添加策略组
 
 [policy]
 
@@ -13,16 +20,24 @@ static=音乐服务, 解锁服务, img-url=https://raw.githubusercontent.com/Orz
 
 static=解锁服务, server-tag-regex=Music, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Netease.png
 
+1.3 为网易云音乐添加分流
+
 [server_remote]
 
 https://raw.githubusercontent.com/nameking77/Qx/main/music/wyy.txt, tag=音乐, update-interval=172800, opt-parser=true, enabled=true
+
+1.4 为网易云音乐添加订阅
 
 在[filter_remote]下面添加
 
 https://raw.githubusercontent.com/WSL33099/QuantumultX/main/NetEaseMusic/NetEaseMusic.list, tag=音乐服务, force-policy=解锁服务,update-interval=172800, opt-parser=true, enabled=true
 
+1.5 测试是否解锁（我的黑色歌单）
+
+https://y.music.163.com/m/playlist?app_version=8.7.35&id=6962020176&userid=437212487&creatorId=437212487
 
 ⚠️这里只编辑配置规则，网易云音乐解锁订阅自行寻找。
+
 2022年5月5日，暂时可用的节点订阅：
 
 https://raw.githubusercontent.com/nameking77/Qx/main/music/wyy.txt
@@ -33,8 +48,9 @@ https://raw.githubusercontent.com/yyn618/QuantumultX-Script/main/UnlockNetease.l
 
 更多信息请关注频道https://t.me/QuantX
 
-最后保存配置并将全部内容更新后，选择网易云音乐节点，打开网易云音乐APP即可解锁！
+# FAQ
 
+最后保存配置并将全部内容更新后，选择网易云音乐节点，打开网易云音乐APP即可解锁！
 
 
 注意与排查：注意所对应位置，不要全部复制后就粘贴，也不要粘贴[xxx]这个内容，提示task_local里的内容错误就升级自己的qx，配置好后在网易音乐策略选择网音检查，然后在网音检查先长按节点查看是否可用，后面的延迟是访问qx里设置的网站延迟，不代表不可用，播放音乐可能需要时间加载，目前支持商店最新版本，  
