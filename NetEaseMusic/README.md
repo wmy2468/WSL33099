@@ -35,7 +35,7 @@ https://raw.githubusercontent.com/nameking77/Qx/main/music/wyy.txt, tag=音乐, 
 
 https://raw.githubusercontent.com/WSL33099/QuantumultX/main/NetEaseMusic/NetEaseMusic.list, tag=音乐服务, force-policy=解锁服务,update-interval=172800, opt-parser=true, enabled=true
 
-1.5 测试是否解锁（我的黑色歌单）
+1.5 测试是否解锁，网易云灰色歌单（我的灰色歌单）
 
 https://y.music.163.com/m/playlist?app_version=8.7.35&id=6962020176&userid=437212487&creatorId=437212487
 
