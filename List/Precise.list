@@ -20,6 +20,12 @@ HOST,wa.gtimg.com, reject
 # HOST,wxsnsdy.wxs.qq.com, reject
 # HOST,wxsnsdythumb.wxs.qq.com, reject
 
+# > 新浪
+HOST-SUFFIX,beacon.sina.com.cn, reject
+HOST,u1.img.mobile.sina.cn, reject
+HOST,sax.sina.com.cn, reject
+HOST,saxs.sina.com.cn, reject
+HOST,saxn.sina.com.cn, reject
 
 # > 微博
 HOST-KEYWORD,fastimage.uve.weibo.com, reject
