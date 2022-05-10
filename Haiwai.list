@@ -1,0 +1,140 @@
+# 海外服务
+
+# 新增
+host, e1.o.lencr.org, 海外服务
+host, stc-anycast.net, 海外服务
+host-keyword, merlinblog, 海外服务
+host-keyword, ddxinwen, 海外服务
+
+HOST-KEYWORD,appledaily,海外服务
+HOST-KEYWORD,beetalk,海外服务
+HOST-KEYWORD,blogspot,海外服务
+HOST-KEYWORD,dropbox,海外服务
+HOST-KEYWORD,facebook,海外服务
+HOST-KEYWORD,instagram,海外服务
+HOST-KEYWORD,twitter,海外服务
+HOST-KEYWORD,whatsapp,海外服务
+# HOST-KEYWORD,google,美国服务
+
+# > Google Voice
+HOST,voice.telephony.goog,美国服务
+HOST,lens.l.google.com,美国服务
+
+# NAME: GitHub
+HOST-SUFFIX,atom.io,香港服务
+HOST-SUFFIX,dependabot.com,香港服务
+HOST-SUFFIX,ghcr.io,香港服务
+HOST-SUFFIX,git.io,香港服务
+HOST-SUFFIX,myoctocat.com,香港服务
+HOST-SUFFIX,npm.community,香港服务
+HOST-SUFFIX,npmjs.com,香港服务
+HOST-SUFFIX,npmjs.org,香港服务
+HOST-SUFFIX,rawgit.com,香港服务
+HOST-KEYWORD,github,香港服务
+
+
+
+# NAME: GoogleSearch
+HOST-KEYWORD,www.google.,海外服务
+
+# NAME: GoogleDrive
+
+HOST,www.googleapis.com,海外服务
+HOST-SUFFIX,docs.google.com,海外服务
+HOST-SUFFIX,drive.google.com,海外服务
+HOST-SUFFIX,googledrive.com,海外服务
+HOST-SUFFIX,googleusercontent.com,海外服务
+USER-AGENT,%E4%BA%91%E7%AB%AF%E7%A1%AC%E7%9B%98*,海外服务
+USER-AGENT,*com.google.Drive*,海外服务
+USER-AGENT,Google.Drive*,海外服务
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# > Spotify
+HOST-SUFFIX,audio-ak-spotify-com.akamaized.net,美国服务
+HOST-SUFFIX,byspotify.com,美国服务
+HOST-SUFFIX,heads4-ak-spotify-com.akamaized.net,美国服务
+HOST-SUFFIX,pscdn.co,美国服务
+HOST-SUFFIX,scdn.co,美国服务
+HOST-SUFFIX,spoti.fi,美国服务
+HOST-SUFFIX,spotify-com.akamaized.net,美国服务
+HOST-SUFFIX,spotify-everywhere.com,美国服务
+HOST-SUFFIX,spotify.com,美国服务
+HOST-SUFFIX,spotify.design,美国服务
+HOST-SUFFIX,spotifycdn.com,美国服务
+HOST-SUFFIX,spotifycdn.net,美国服务
+HOST-SUFFIX,spotifycharts.com,美国服务
+HOST-SUFFIX,spotifycodes.com,美国服务
+HOST-SUFFIX,spotifyforbrands.com,美国服务
+HOST-SUFFIX,spotifyjobs.com,美国服务
+HOST-KEYWORD,-spotify-com,美国服务
+HOST-KEYWORD,spotify.com,美国服务
+USER-AGENT,*Spotify*,美国服务
+USER-AGENT,Spotify*,美国服务
+IP-CIDR,35.186.224.47/32,美国服务
+
+#Twitter
+HOST-SUFFIX,ads-twitter.com,海外服务
+HOST-SUFFIX,periscope.tv,海外服务
+HOST-SUFFIX,pscp.tv,海外服务
+HOST-SUFFIX,t.co,海外服务
+HOST-SUFFIX,tellapart.com,海外服务
+HOST-SUFFIX,tweetdeck.com,海外服务
+HOST-SUFFIX,twimg.co,海外服务
+HOST-SUFFIX,twimg.com,海外服务
+HOST-SUFFIX,twimg.org,海外服务
+HOST-SUFFIX,twitpic.com,海外服务
+HOST-SUFFIX,twitter.com,海外服务
+HOST-SUFFIX,twitter.jp,海外服务
+HOST-SUFFIX,twitterinc.com,海外服务
+HOST-SUFFIX,twitteroauth.com,海外服务
+HOST-SUFFIX,twitterstat.us,海外服务
+HOST-SUFFIX,twtrdns.net,海外服务
+HOST-SUFFIX,twttr.com,海外服务
+HOST-SUFFIX,vine.co,海外服务
+HOST-KEYWORD,twitter,海外服务
+IP-CIDR,104.244.42.0/21,海外服务
+IP-CIDR,192.133.76.0/22,海外服务
+IP-CIDR,199.16.156.0/22,海外服务
+IP-CIDR,199.59.148.0/22,海外服务
+IP-CIDR,199.96.56.0/21,海外服务
+IP-CIDR,202.160.128.0/22,海外服务
+IP-CIDR,209.237.192.0/19,海外服务
+IP-CIDR,69.195.160.0/19,海外服务
+
+
+# > Facebook
+IP-CIDR,103.4.96.0/22,海外服务
+IP-CIDR,129.134.0.0/17,海外服务
+IP-CIDR,157.240.0.0/17,海外服务
+IP-CIDR,173.252.64.0/19,海外服务
+IP-CIDR,173.252.96.0/19,海外服务
+IP-CIDR,179.60.192.0/22,海外服务
+IP-CIDR,185.60.216.0/22,海外服务
+IP-CIDR,204.15.20.0/22,海外服务
+IP-CIDR,31.13.24.0/21,海外服务
+IP-CIDR,31.13.64.0/18,海外服务
+IP-CIDR,45.64.40.0/22,海外服务
+IP-CIDR,66.220.144.0/20,海外服务
+IP-CIDR,69.171.224.0/19,海外服务
+IP-CIDR,69.63.176.0/20,海外服务
+IP-CIDR,74.119.76.0/22,海外服务
+
+# > Google
+IP-CIDR,173.194.0.0/16,海外服务
+IP-CIDR,74.125.0.0/16,海外服务
+
