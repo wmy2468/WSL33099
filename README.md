@@ -4,7 +4,7 @@
 <img src="https://raw.githubusercontent.com/WSL33099/QuantumultX/main/Image/XX.png" width="200" height="200" />
 </p>
 
-<h1 align="center">拦截100</h1>
+<h1 align="center">莫离</h1>
 
 # QuantumultX
 ### 所有内容均来自互联网 不确保可用性  
