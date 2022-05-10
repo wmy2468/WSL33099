@@ -1,0 +1,24 @@
+# NAME: TikTok
+# AUTHOR: blackmatrix7
+# REPO: https://github.com/blackmatrix7/ios_rule_script
+# UPDATED: 2021-12-16 17:32:40
+# HOST-SUFFIX: 12
+# USER-AGENT: 1
+# HOST: 1
+# HOST-KEYWORD: 1
+# TOTAL: 15
+HOST,p16-tiktokcdn-com.akamaized.net, 抖音服务
+HOST-SUFFIX,amemv.com, 抖音服务
+HOST-SUFFIX,byteoversea.com, 抖音服务
+HOST-SUFFIX,ibytedtos.com, 抖音服务
+HOST-SUFFIX,ibyteimg.com, 抖音服务
+HOST-SUFFIX,ipstatp.com, 抖音服务
+HOST-SUFFIX,muscdn.com, 抖音服务
+HOST-SUFFIX,sgpstatp.com, 抖音服务
+HOST-SUFFIX,snssdk.com, 抖音服务
+HOST-SUFFIX,tik-tokapi.com, 抖音服务
+HOST-SUFFIX,tiktok.com, 抖音服务
+HOST-SUFFIX,tiktokcdn.com, 抖音服务
+HOST-SUFFIX,tiktokv.com, 抖音服务
+HOST-KEYWORD,musical.ly, 抖音服务
+USER-AGENT,TikTok*, 抖音服务
