@@ -10,6 +10,30 @@ USER-AGENT,ting_en,大陆服务
 USER-AGENT,WebTorrent*,大陆服务
 USER-AGENT,WeChat*,大陆服务
 
+# NAME: WeChat
+# AUTHOR: blackmatrix7
+# REPO: https://github.com/blackmatrix7/ios_rule_script
+# UPDATED: 2022-04-03 10:56:29
+# HOST: 5
+# IP-CIDR: 9
+# TOTAL: 14
+HOST,dl.wechat.com,大陆服务
+HOST,sglong.wechat.com,大陆服务
+HOST,sgminorshort.wechat.com,大陆服务
+HOST,sgshort.wechat.com,大陆服务
+HOST,tencentmap.wechat.com,大陆服务
+IP-CIDR,101.32.104.4/32,大陆服务
+IP-CIDR,101.32.104.41/32,大陆服务
+IP-CIDR,101.32.104.56/32,大陆服务
+IP-CIDR,101.32.118.25/32,大陆服务
+IP-CIDR,101.32.133.16/32,大陆服务
+IP-CIDR,101.32.133.209/32,大陆服务
+IP-CIDR,101.32.133.53/32,大陆服务
+IP-CIDR,129.226.107.244/32,大陆服务
+IP-CIDR,129.226.3.47/32,大陆服务
+
+
+
 # China Bank
 # > Agricultural Bank of China
 HOST-SUFFIX,abchina.com,大陆服务
