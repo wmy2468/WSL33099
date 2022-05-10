@@ -1,3 +1,10 @@
+
+## /*  APP开屏广告拦截，APP启动广告拦截！
+##  a28413761  收集整理
+## 更新时间  2022.05.10
+## */  
+
+
 # >  腾讯
 HOST,safebrowsing.urlsec.qq.com, reject
 HOST-SUFFIX,oth.str.mdt.qq.com, reject
