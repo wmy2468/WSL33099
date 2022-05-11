@@ -31,7 +31,7 @@ DOMAIN,api.steampowered.com
 # IP-CIDR: 9
 # TOTAL: 14
 
-HOST-KEYWORD,wechat 
+ 
 HOST,dl.wechat.com
 HOST,sglong.wechat.com
 HOST,sgminorshort.wechat.com
