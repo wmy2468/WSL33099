@@ -17,6 +17,47 @@ HOST-KEYWORD,whatsapp,海外服务
 # HOST-KEYWORD,google,美国服务
 
 
+# NAME: Telegram
+# AUTHOR: blackmatrix7
+# REPO: https://github.com/blackmatrix7/ios_rule_script
+# UPDATED: 2022-03-22 02:12:39
+# IP-CIDR: 6
+# IP6-CIDR: 4
+# HOST-KEYWORD: 2
+# HOST-SUFFIX: 18
+# TOTAL: 30
+HOST-SUFFIX,comments.app,海外服务
+HOST-SUFFIX,contest.com, 海外服务
+HOST-SUFFIX,graph.org, 海外服务
+HOST-SUFFIX,quiz.directory, 海外服务
+HOST-SUFFIX,stel.com, 海外服务
+HOST-SUFFIX,t.me, 海外服务
+HOST-SUFFIX,tdesktop.com, 海外服务
+HOST-SUFFIX,telega.one, 海外服务
+HOST-SUFFIX,telegra.ph, 海外服务
+HOST-SUFFIX,telegram.dog, 海外服务
+HOST-SUFFIX,telegram.me, 海外服务
+HOST-SUFFIX,telegram.org, 海外服务
+HOST-SUFFIX,telegram.space, 海外服务
+HOST-SUFFIX,telegramdownload.com, 海外服务
+HOST-SUFFIX,telesco.pe, 海外服务
+HOST-SUFFIX,tg.dev, 海外服务
+HOST-SUFFIX,tx.me, 海外服务
+HOST-SUFFIX,usercontent.dev, 海外服务
+HOST-KEYWORD,nicegram, 海外服务
+HOST-KEYWORD,telegram, 海外服务
+IP-CIDR,109.239.140.0/24, 海外服务
+IP-CIDR,149.154.160.0/20, 海外服务
+IP-CIDR,185.76.151.0/24, 海外服务
+IP-CIDR,91.105.192.0/23, 海外服务
+IP-CIDR,91.108.0.0/16, 海外服务
+IP-CIDR,95.161.64.0/20, 海外服务
+IP6-CIDR,2001:67c:4e8::/48, 海外服务
+IP6-CIDR,2001:b28:f23c::/47, 海外服务
+IP6-CIDR,2001:b28:f23f::/48, 海外服务
+IP6-CIDR,2a0a:f280::/32, 海外服务
+
+
 # NAME: paypal
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
