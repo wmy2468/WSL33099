@@ -21,7 +21,7 @@
 
 static=音乐服务, 解锁服务, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Netease.png
 
-static=解锁服务, server-tag-regex=Music, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Netease.png
+static=解锁服务, server-tag-regex=Music|音乐|网易云|网易云音乐|网易音乐, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Lock.png
 
 1.3 为网易云音乐添加分流
 
