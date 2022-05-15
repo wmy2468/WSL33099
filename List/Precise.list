@@ -49,7 +49,7 @@ HOST,mqtt.zhihu.com, reject
 HOST,sugar.zhihu.com, reject
 HOST,118.89.204.198, reject
 IP-CIDR,118.89.204.198/32, reject
-IP6-CIDR,2402:4e,reject 
+IP6-CIDR,2402:4e,reject
 # > WiFi万能钥匙广告
 host-keyword, app.51y5.net, reject
 host-keyword, apiinit.amap.com, reject
