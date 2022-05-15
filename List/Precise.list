@@ -1,9 +1,90 @@
 
-## /*  APP开屏广告拦截，APP启动广告拦截！
-##  a28413761  收集整理
-## 更新时间  2022.05.10
-## */  
+# > 哔哩哔哩
+HOST-SUFFIX,cm.bilibili.com, reject
+host-keyword, api.sobot.com, reject
+HOST-SUFFIX,cm.ad.bilibili.com, reject
+HOST-SUFFIX,cm.adcommon.bilibili.com, reject
+HOST-SUFFIX,cm.game.bilibili.com, reject
+HOST-SUFFIX,cm.track.biligame.bilibili.com, reject
 
+# > 淘宝
+HOST-SUFFIX,apoll.m.taobao.com, reject
+HOST-SUFFIX,h-adashx.ut.taobao.com, reject
+HOST-SUFFIX,w.m.taobao.com, reject
+HOST,tunion-api.m.taobao.com, reject
+HOST-SUFFIX,ai.m.taobao.com, reject
+HOST-SUFFIX,re.m.taobao.com, reject
+HOST-SUFFIX,agoodm.m.taobao.com, reject
+HOST-SUFFIX,ai.taobao.com, reject
+HOST-SUFFIX,api.waptest.taobao.com, reject
+HOST-SUFFIX,dsp.simba.taobao.com, reject
+HOST-SUFFIX,fav.simba.taobao.com, reject
+HOST-SUFFIX,m.simba.taobao.com, reject
+HOST-SUFFIX,mclick.simba.taobao.com, reject
+HOST-SUFFIX,re.taobao.com, reject
+HOST-SUFFIX,redirect.simba.taobao.com, reject
+HOST-SUFFIX,simba.m.taobao.com, reject
+HOST-SUFFIX,srd.simba.taobao.com, reject
+HOST-SUFFIX,temai.taobao.com, reject
+HOST-SUFFIX,textlink.simba.taobao.com, reject
+HOST-SUFFIX,unitacs.m.taobao.com, reject
+HOST-SUFFIX,acs4baichuan.m.taobao.com, reject
+HOST-SUFFIX,adashbc.ut.taobao.com, reject
+HOST-SUFFIX,adash-c.ut.taobao.com, reject
+HOST-SUFFIX,adashxgc.ut.taobao.com, reject
+HOST-SUFFIX,adashx4yt.m.taobao.com, reject
+HOST-SUFFIX,tunion-api.m.taobao.com, reject
+HOST-SUFFIX,tns.simba.taobao.com, reject
+HOST-SUFFIX,click.mz.simba.taobao.com, reject
+HOST-SUFFIX,click.simba.taobao.com, reject
+HOST-SUFFIX,click.tz.simba.taobao.com, reject
+HOST-SUFFIX,stat.simba.taobao.com, reject
+HOST-SUFFIX,m-adash.m.taobao.com, reject
+HOST-SUFFIX,adashbc.m.taobao.com, reject
+
+# > 知乎
+USER-AGENT,AVOS*, reject
+HOST,appcloud2.in.zhihu.com, reject
+HOST,mqtt.zhihu.com, reject
+HOST,sugar.zhihu.com, reject
+HOST,118.89.204.198, reject
+IP-CIDR,118.89.204.198/32, reject
+IP6-CIDR,2402:4e
+# > WiFi万能钥匙广告
+host-keyword, app.51y5.net, reject
+host-keyword, apiinit.amap.com, reject
+host-keyword, c.51y5.net, reject
+host-keyword, msg.push.51y5.net, reject
+host-keyword, a.wkanx.com, reject
+host-keyword, c.wkanx.com, reject
+host-keyword, c1.wkanx.com, reject
+host-keyword, ap.51y5.net, reject
+host-keyword, dc.51y5.net, reject
+host-keyword, push-dc.51y5.net, reject
+host-keyword, news-log.51y5.net, reject
+host-keyword, login.push.51y5.net, reject
+host-keyword, news.51y5.net, reject
+host-keyword, cds.51y5.net, reject
+host-keyword, insurance.lianwifi.com, reject
+host-keyword, config.51y5.net, reject
+host-keyword, static.wkanx.com, reject
+host-keyword, config.y5en.com, reject
+
+
+# > 美团
+HOST, flowplus.meituan.net, reject
+HOST-SUFFIX, analytics.meituan.net, reject
+HOST-SUFFIX, meituan.xn--io0a7i, reject
+HOST-SUFFIX, meituan.yoga, reject
+HOST-SUFFIX, meituangov.cn, reject
+HOST-SUFFIX, report.meituan.com, reject
+HOST-SUFFIX, wmlog.meituan.com, reject
+
+
+
+# > 懂车帝
+host-keyword, p3-pack.byteimg.com, reject
+host-keyword, p6-pack.byteimg.com, reject
 
 # >  腾讯
 HOST,safebrowsing.urlsec.qq.com, reject
