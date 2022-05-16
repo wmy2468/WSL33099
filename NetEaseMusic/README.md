@@ -23,14 +23,13 @@
 static=音乐服务, server-tag-regex=Music|音乐|网易云|网易云音乐|网易音乐, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Netease_Music_Unlock.png
 
 
-1.3 为网易云音乐添加分流
+1.3 为网易云音乐添加订阅
 
 [server_remote]
 
-https://raw.githubusercontent.com/WSL33099/QuantumultX/main/NetEaseMusic/NetEaseMusic.list, tag=解锁服务, force-policy=音乐服务,update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/nameking77/Qx/main/music/wyy.txt, tag=音乐, update-interval=172800, opt-parser=true, enabled=true
 
-
-1.4 为网易云音乐添加订阅
+1.4 为网易云音乐添加分流规则
 
 在[filter_remote]下面添加
 
