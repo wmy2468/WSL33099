@@ -19,15 +19,16 @@
 
 [policy]
 
-static=音乐服务, 解锁服务, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Netease.png
 
-static=解锁服务, server-tag-regex=Music|音乐|网易云|网易云音乐|网易音乐, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Lock.png
+static=音乐服务, server-tag-regex=Music|音乐|网易云|网易云音乐|网易音乐, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Netease_Music_Unlock.png
+
 
 1.3 为网易云音乐添加分流
 
 [server_remote]
 
-https://raw.githubusercontent.com/nameking77/Qx/main/music/wyy.txt, tag=音乐, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/WSL33099/QuantumultX/main/NetEaseMusic/NetEaseMusic.list, tag=解锁服务, force-policy=音乐服务,update-interval=172800, opt-parser=true, enabled=true
+
 
 1.4 为网易云音乐添加订阅
 
@@ -35,7 +36,10 @@ https://raw.githubusercontent.com/nameking77/Qx/main/music/wyy.txt, tag=音乐, 
 
 https://raw.githubusercontent.com/WSL33099/QuantumultX/main/NetEaseMusic/NetEaseMusic.list, tag=音乐服务, force-policy=解锁服务,update-interval=172800, opt-parser=true, enabled=true
 
-1.5 测试是否解锁，网易云灰色歌单（我的灰色歌单）
+
+###测试是否解锁
+
+网易云灰色歌单（我的灰色歌单）
 
 https://y.music.163.com/m/playlist?app_version=8.7.35&id=6962020176&userid=437212487&creatorId=437212487
 
