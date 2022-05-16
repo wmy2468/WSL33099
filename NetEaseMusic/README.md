@@ -37,7 +37,7 @@ https://raw.githubusercontent.com/WSL33099/QuantumultX/main/NetEaseMusic/NetEase
 https://raw.githubusercontent.com/WSL33099/QuantumultX/main/NetEaseMusic/NetEaseMusic.list, tag=音乐服务, force-policy=解锁服务,update-interval=172800, opt-parser=true, enabled=true
 
 
-###测试是否解锁
+### 测试是否解锁
 
 网易云灰色歌单（我的灰色歌单）
 
