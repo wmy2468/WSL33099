@@ -63,3 +63,11 @@ DOMAIN-SUFFIX, v.douyin.com
 DOMAIN-SUFFIX, ad.douyin.com
 DOMAIN-SUFFIX, douyin.com
 DOMAIN-SUFFIX, www.douyin.com
+
+host-keyword, douyincdn
+host, aweme.snssdk.com
+host-keyword, douyinpic
+host-keyword, douyinvod
+host, p26-sign.douyinpic.com
+host, api3-normal-c-lf.amemv.com
+host, v1.douyinvod.com
