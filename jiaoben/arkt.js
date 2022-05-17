@@ -8,15 +8,14 @@
 [rewrite_local]
 
 # 傲软抠图解锁会员
-^https?:(.+).aoscdn.com/app/aimage/usersInfo$ url script-response-body https://raw.githubusercontent.com/nameking77/Qx/main/rewrite/arkt.js
-[mitm] 
+^https?:(.+).aoscdn.com/app/aimage/usersInfo$ url script-response-body https://raw.githubusercontent.com/WSL33099/QuantumultX/main/jiaoben/arkt.js
 
 hostname = *.aoscdn.com
 ********** 小火箭 **************
 
 [Script]
 
-傲软抠图 = type=http-response,script-path=https://raw.githubusercontent.com/nameking77/Qx/main/rewrite/arkt.js,pattern=^https?:(.+).aoscdn.com/app/aimage/usersInfo$,max-size=131072,requires-body=true,timeout=10,enable=true
+傲软抠图 = type=http-response,script-path= https://raw.githubusercontent.com/WSL33099/QuantumultX/main/jiaoben/arkt.js,pattern=^https?:(.+).aoscdn.com/app/aimage/usersInfo$,max-size=131072,requires-body=true,timeout=10,enable=true
 
 [mitm] 
 
