@@ -17,13 +17,12 @@
 * 各种资源整合、实用脚本等：[Cuttlefish](https://github.com/ddgksf2013/Cuttlefish)
 * 资源广泛，去广告、破解VIP资源：[NobyDa](https://github.com/NobyDa/Script)
 
-
-<a href="https://github.com/WSL33099/QuantumultX/tree/main/Conf"><img src='https://img.shields.io/badge/Rewrite-v1.0-orange'/></a>
 <a href="https://t.me/GodMolii"><img src='https://img.shields.io/badge/By-莫--离-green'/></a>
+<a href="https://github.com/WSL33099/QuantumultX/tree/main/Conf"><img src='https://img.shields.io/badge/Rewrite-v1.0-orange'/></a>
 [![Stars](https://img.shields.io/github/stars/WSL33099/QuantumultX)](https://github.com/WSL33099/QuantumultX/stargazers)
 [![Fork](https://img.shields.io/github/forks/WSL33099/QuantumultX)](https://github.com/WSL33099/QuantumultX/network/members)
 [![Commit](https://img.shields.io/github/commit-activity/m/WSL33099/QuantumultX?label=Commits)](https://github.com/WSL33099/QuantumultX/commits/master)
-[![Telegram](https://img.shields.io/badge/Telegram-Channel-33A8E3)](https://t.me/GodMolii)
+[![Telegram](https://img.shields.io/badge/Telegram-Channel-33A8E3)](https://t.me/Skill_XX)
 [![Issues](https://img.shields.io/github/issues/WSL33099/QuantumultX)](https://github.com/WSL33099/QuantumultX/issues)
 [![](https://img.shields.io/github/followers/WSL33099?label=follow&style=social)](https://github.com/WSL33099)
 
