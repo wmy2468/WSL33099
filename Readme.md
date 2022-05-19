@@ -18,7 +18,7 @@
 * 资源广泛，去广告、破解VIP资源：[NobyDa](https://github.com/NobyDa/Script)
 
 
-<a href="https://github.com/WSL33099/QuantumultX/tree/main/Conf"><img src='https://img.shields.io/badge/Scriptable-v1.0-orange'/></a>
+<a href="https://github.com/WSL33099/QuantumultX/tree/main/Conf"><img src='https://img.shields.io/badge/Rewrite-v1.0-orange'/></a>
 
 <a href="https://t.me/GodMolii"><img src='https://img.shields.io/badge/By-莫--离-green'/></a>
 
