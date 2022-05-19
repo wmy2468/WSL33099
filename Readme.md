@@ -12,8 +12,6 @@
 
 ## <a href="https://t.me/GodMolii"><img src="https://raw.githubusercontent.com/Nan-nx/Nan-nx/main/hello.gif" width="65px"/></a>
 
-[![WSL33099's GitHub stats](https://github-readme-stats.vercel.app/api?username= WSL33099&show_icons=true&count_private=true&theme=vue)](https://github.com/WSL33099)
-
 * 资源解析器：[KOP-XIAO](https://github.com/KOP-XIAO) 
 * Boxjs、各种签到脚本：[Chavyleung](https://github.com/chavyleung)
 * 各种资源整合、实用脚本等：[Cuttlefish](https://github.com/ddgksf2013/Cuttlefish)
