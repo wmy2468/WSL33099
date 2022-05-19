@@ -20,7 +20,7 @@
 
 <a href="https://github.com/WSL33099/QuantumultX/tree/main/Conf"><img src='https://img.shields.io/badge/Scriptable-v1.0-orange'/></a>
 
-<a href="https://t.me/GodMolii"><img src='https://img.shields.io/badge/By-Nan--nx-green'/></a>
+<a href="https://t.me/GodMolii"><img src='https://img.shields.io/badge/By-莫--离-green'/></a>
 
 
 
