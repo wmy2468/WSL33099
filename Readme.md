@@ -19,10 +19,13 @@
 
 
 <a href="https://github.com/WSL33099/QuantumultX/tree/main/Conf"><img src='https://img.shields.io/badge/Rewrite-v1.0-orange'/></a>
-
 <a href="https://t.me/GodMolii"><img src='https://img.shields.io/badge/By-莫--离-green'/></a>
-
-
+[![Stars](https://img.shields.io/github/stars/WSL33099/QuantumultX)](https://github.com/WSL33099/QuantumultX/stargazers)
+[![Fork](https://img.shields.io/github/forks/WSL33099/QuantumultX)](https://github.com/WSL33099/QuantumultX/network/members)
+[![Commit](https://img.shields.io/github/commit-activity/m/WSL33099/QuantumultX?label=Commits)](https://github.com/WSL33099/QuantumultX/commits/master)
+[![Telegram](https://img.shields.io/badge/Telegram-Channel-33A8E3)](https://t.me/GodMolii)
+[![Issues](https://img.shields.io/github/issues/WSL33099/QuantumultX)](https://github.com/WSL33099/QuantumultX/issues)
+[![](https://img.shields.io/github/followers/WSL33099?label=follow&style=social)](https://github.com/WSL33099)
 
 #### 自用配置：
 * 自用配置：[Auto.conf](https://raw.githubusercontent.com/GodMoli/QuanX/main/File/Auto.conf) ❗❗
