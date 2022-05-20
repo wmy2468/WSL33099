@@ -1,5 +1,14 @@
 ![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=WSL33099&show_icons=true&theme=merko)
 
+<a href="https://t.me/GodMolii"><img src='https://img.shields.io/badge/By-莫--离-green'/></a>
+<a href="https://github.com/WSL33099/QuantumultX/tree/main/Conf"><img src='https://img.shields.io/badge/Rewrite-v1.0-orange'/></a>
+[![Stars](https://img.shields.io/github/stars/WSL33099/QuantumultX)](https://github.com/WSL33099/QuantumultX/stargazers)
+[![Fork](https://img.shields.io/github/forks/WSL33099/QuantumultX)](https://github.com/WSL33099/QuantumultX/network/members)
+[![Commit](https://img.shields.io/github/commit-activity/m/WSL33099/QuantumultX?label=Commits)](https://github.com/WSL33099/QuantumultX/commits/master)
+[![Telegram](https://img.shields.io/badge/Telegram-Channel-33A8E3)](https://t.me/Skill_XX)
+[![Issues](https://img.shields.io/github/issues/WSL33099/QuantumultX)](https://github.com/WSL33099/QuantumultX/issues)
+[![](https://img.shields.io/github/followers/WSL33099?label=follow&style=social)](https://github.com/WSL33099)
+
 # 
 
 <p align="center">
@@ -18,15 +27,6 @@
 * Boxjs、各种签到脚本：[Chavyleung](https://github.com/chavyleung)
 * 各种资源整合、实用脚本等：[Cuttlefish](https://github.com/ddgksf2013/Cuttlefish)
 * 资源广泛，去广告、破解VIP资源：[NobyDa](https://github.com/NobyDa/Script)
-
-<a href="https://t.me/GodMolii"><img src='https://img.shields.io/badge/By-莫--离-green'/></a>
-<a href="https://github.com/WSL33099/QuantumultX/tree/main/Conf"><img src='https://img.shields.io/badge/Rewrite-v1.0-orange'/></a>
-[![Stars](https://img.shields.io/github/stars/WSL33099/QuantumultX)](https://github.com/WSL33099/QuantumultX/stargazers)
-[![Fork](https://img.shields.io/github/forks/WSL33099/QuantumultX)](https://github.com/WSL33099/QuantumultX/network/members)
-[![Commit](https://img.shields.io/github/commit-activity/m/WSL33099/QuantumultX?label=Commits)](https://github.com/WSL33099/QuantumultX/commits/master)
-[![Telegram](https://img.shields.io/badge/Telegram-Channel-33A8E3)](https://t.me/Skill_XX)
-[![Issues](https://img.shields.io/github/issues/WSL33099/QuantumultX)](https://github.com/WSL33099/QuantumultX/issues)
-[![](https://img.shields.io/github/followers/WSL33099?label=follow&style=social)](https://github.com/WSL33099)
 
 #### 自用配置：
 * 自用配置：[Auto.conf](https://raw.githubusercontent.com/GodMoli/QuanX/main/File/Auto.conf) ❗❗
