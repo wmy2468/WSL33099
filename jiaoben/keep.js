@@ -7,8 +7,7 @@
 [rewrite_local]
 
 # keep解锁会员
-^https://(.+).gotokeep.com(/athena/v5/people/my|/nuocha/plans) url script-response-body https://raw.githubusercontent.com/zwf234/rules/master/js/keep.js
-
+^https://(.+).gotokeep.com(/athena/v5/people/my|/nuocha/plans) url script-response-body https://raw.githubusercontent.com/WSL33099/QuantumultX/main/jiaoben/keep.js
 [mitm] 
 
 hostname = *.gotokeep.com
