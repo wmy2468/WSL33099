@@ -1,6 +1,6 @@
 ![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=WSL33099&show_icons=true&theme=merko)
 
-<a href="https://t.me/GodMolii"><img src='https://img.shields.io/badge/By-莫--离-green'/></a>
+<a href="https://t.me/GodMoli"><img src='https://img.shields.io/badge/By-莫--离-green'/></a>
 <a href="https://github.com/WSL33099/QuantumultX/tree/main/Conf"><img src='https://img.shields.io/badge/Rewrite-v1.0-orange'/></a>
 [![Stars](https://img.shields.io/github/stars/WSL33099/QuantumultX)](https://github.com/WSL33099/QuantumultX/stargazers)
 [![Fork](https://img.shields.io/github/forks/WSL33099/QuantumultX)](https://github.com/WSL33099/QuantumultX/network/members)
