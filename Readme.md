@@ -1,5 +1,7 @@
 ![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=WSL33099&show_icons=true&theme=merko)
 
+[![莫离's GitHub stats](https://github-readme-stats.vercel.app/api?username=WSL33099&show_icons=true&theme=merko)](https://github.com/WSL33099/QuantumultX)
+
 <a href="https://t.me/GodMolibot"><img src='https://img.shields.io/badge/By-莫--离-green'/></a>
 <a href="https://github.com/WSL33099/QuantumultX/tree/main/Conf"><img src='https://img.shields.io/badge/Rewrite-v1.0-orange'/></a>
 [![Stars](https://img.shields.io/github/stars/WSL33099/QuantumultX)](https://github.com/WSL33099/QuantumultX/stargazers)
