@@ -1,6 +1,10 @@
 # 海外服务
 
 # 新增
+
+HOST,apps.apple.com,direct
+HOST,itunes.apple.com,direct
+
 host, e1.o.lencr.org, 海外服务
 host, stc-anycast.net, 海外服务
 host-keyword, merlinblog, 海外服务
@@ -59,13 +63,6 @@ IP6-CIDR,2a0a:f280::/32, 海外服务
 
 
 # NAME: paypal
-# AUTHOR: blackmatrix7
-# REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-02-14 02:10:25
-# USER-AGENT: 1
-# HOST-SUFFIX: 246
-# HOST-KEYWORD: 1
-# TOTAL: 248
 HOST-SUFFIX,account-paypal.info,美国服务
 HOST-SUFFIX,account-paypal.net,美国服务
 HOST-SUFFIX,account-paypal.org,美国服务
@@ -356,17 +353,6 @@ HOST-SUFFIX,phprcdn.com,海外服务
 HOST-SUFFIX,pornhub.com,海外服务
 HOST-SUFFIX,pornhubpremium.com,海外服务
 
-
-
-
-
-
-
-
-
-
-
-
 # > Spotify
 HOST-SUFFIX,audio-ak-spotify-com.akamaized.net,美国服务
 HOST-SUFFIX,byspotify.com,美国服务
@@ -444,13 +430,6 @@ IP-CIDR,74.125.0.0/16,海外服务
 
 
 # NAME: Amazon
-# AUTHOR: blackmatrix7
-# REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-12-27 02:10:29
-# HOST-SUFFIX: 176
-# IP-CIDR: 15
-# USER-AGENT: 2
-# TOTAL: 193
 HOST-SUFFIX,a2z.com,海外服务
 HOST-SUFFIX,aboutamazon.cn,海外服务
 HOST-SUFFIX,aboutamazon.co.uk,海外服务
