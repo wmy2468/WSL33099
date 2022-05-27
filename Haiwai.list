@@ -2,8 +2,6 @@
 
 # 新增
 
-HOST,apps.apple.com,direct
-HOST,itunes.apple.com,direct
 
 host, e1.o.lencr.org, 海外服务
 host, stc-anycast.net, 海外服务
