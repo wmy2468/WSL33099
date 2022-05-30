@@ -12,17 +12,23 @@ https://raw.githubusercontent.com/WSL33099/QuantumultX/main/Bilibili/Bili_Auto.c
 https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/StreamingMedia/StreamingSE.list, tag=StreamingSE, force-policy=换区服务, update-interval=172800, opt-parser=true, enabled=true
 
 在[policy]下添加策略组
+
 static=换区服务, direct, proxy,img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Available.png
 
 [filter_local]
 可选, 由于qx纯tun特性, 不添加规则可能会导致脚本失效. https://github.com/NobyDa/Script/issues/382
+
 ip-cidr, 203.107.1.1/24, reject
 
 ### ❸ BOXJS设置：添加哔哩哔哩自动换区
+
 BoxJs订阅地址: https://raw.githubusercontent.com/NobyDa/Script/master/NobyDa_BoxJs.json
+
 在哔哩哔哩自动换区下面填写策略组名：换区服务 
     
-### ❹ 使用切换地区功能请确保您的QX=>其他设置=>温和策略机制处于关闭状态
+### ❹ 温和策略机制处于关闭状态
+
+使用切换地区功能请确保您的QX=>其他设置=>温和策略机制处于关闭状态
 
 
 
