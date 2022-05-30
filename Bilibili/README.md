@@ -26,10 +26,10 @@ ip-cidr, 203.107.1.1/24, reject
 
 BoxJs订阅地址: https://raw.githubusercontent.com/NobyDa/Script/master/NobyDa_BoxJs.json
 <p align="left">
-<img src="https://raw.githubusercontent.com/WSL33099/QuantumultX/main/Bilibili/bo.png" width="575" height="926" />
+<img src="https://raw.githubusercontent.com/WSL33099/QuantumultX/main/Bilibili/bo.png" width="250" height="500" />
 </p>
 <p align="right">
-<img src="https://raw.githubusercontent.com/WSL33099/QuantumultX/main/Bilibili/CZ.png" width="575" height="926" />
+<img src="https://raw.githubusercontent.com/WSL33099/QuantumultX/main/Bilibili/CZ.png" width="250" height="500" />
 </p>
 
 在哔哩哔哩自动换区下面填写策略组名：换区服务 
@@ -38,7 +38,7 @@ BoxJs订阅地址: https://raw.githubusercontent.com/NobyDa/Script/master/NobyDa
 
 使用切换地区功能请确保您的QX=>其他设置=>温和策略机制处于关闭状态
 <p align="center">
-<img src="https://raw.githubusercontent.com/WSL33099/QuantumultX/main/Bilibili/mp.png" width="582" height="966" />
+<img src="https://raw.githubusercontent.com/WSL33099/QuantumultX/main/Bilibili/mp.png" width="250" height="500" />
 </p>
 
 
