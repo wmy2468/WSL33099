@@ -43,6 +43,9 @@ BoxJs订阅地址: https://raw.githubusercontent.com/NobyDa/Script/master/NobyDa
 
 
 
+### 最后 
+*  感谢：[NobyDa](https://github.com/NobyDa/Script)
+*  感谢：[DivineEngine](https://github.com/DivineEngine)
 
 
 
