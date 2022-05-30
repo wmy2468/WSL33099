@@ -15,7 +15,7 @@ https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Str
 static=换区服务, direct, proxy,img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Available.png
 
 [filter_local]
-# 可选, 由于qx纯tun特性, 不添加规则可能会导致脚本失效. https://github.com/NobyDa/Script/issues/382
+可选, 由于qx纯tun特性, 不添加规则可能会导致脚本失效. https://github.com/NobyDa/Script/issues/382
 ip-cidr, 203.107.1.1/24, reject
 
 ### ❸ BOXJS设置：添加哔哩哔哩自动换区
