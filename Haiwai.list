@@ -19,6 +19,20 @@ HOST-KEYWORD,whatsapp,海外服务
 # HOST-KEYWORD,google,美国服务
 
 
+
+# > bilibili自动换区
+HOST,api.biliapi.com,流动播放
+HOST,api.biliapi.net ,流动播放
+HOST,api.bilibili.com ,流动播放
+HOST,app.biliapi.com ,流动播放
+HOST,app.biliapi.net ,流动播放
+HOST,app.bilibili.com ,流动播放
+HOST,grpc.biliapi.net ,流动播放
+HOST,m.bilibili.com ,流动播放
+HOST,upos-hz-mirrorakam.akamaized.net ,流动播放
+HOST,www.bilibili.com ,流动播放
+HOST-KEYWORD,cn-hk-eq-bcache-,流动播放
+
 # NAME: Telegram
 HOST-SUFFIX,comments.app,海外服务
 HOST-SUFFIX,contest.com, 海外服务
