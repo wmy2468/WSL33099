@@ -14,6 +14,11 @@ TG Channel：https://t.me/QuantX
 [![Fork](https://img.shields.io/github/forks/WSL33099/QuantumultX)](https://github.com/WSL33099/QuantumultX/network/members)
 [![Commit](https://img.shields.io/github/commit-activity/m/WSL33099/QuantumultX?label=Commits)](https://github.com/WSL33099/QuantumultX/commits/main)
 
+#### 莫离
+*  配置:[配置](https://raw.githubusercontent.com/GodMoli/QuanX/main/File/Auto.conf)
+*  仓库:[仓库](https://github.com/WSL33099)
+*  通知:[频道](https://t.me/QuantX)
+*  交流:[群组](https://t.me/Skill_XX)
 
 ### QuantumultX
 
@@ -59,11 +64,5 @@ TG Channel：https://t.me/QuantX
     如果您使用并复制了任何本仓库的内容，则视为您已接受此免责声明.
 
 #### FAQ
-
-#### QuantumultX 莫离懒人配置
-*  配置:[配置](https://raw.githubusercontent.com/GodMoli/QuanX/main/File/Auto.conf)
-*  仓库:[仓库](https://github.com/WSL33099)
-*  通知:[频道](https://t.me/QuantX)
-*  交流:[群组](https://t.me/Skill_XX)
 
 [回到顶部](#readme)		
