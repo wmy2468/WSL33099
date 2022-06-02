@@ -20,11 +20,13 @@ TG Channel：https://t.me/QuantX
 #### 所有内容均来自互联网 不确保可用性  
 
 #### 不要问我 啥都不会
-* 解析器：[KOP-XIAO](https://github.com/KOP-XIAO) 
-* 签到脚本：[Chavyleung](https://github.com/chavyleung)
-* 资源整合：[Cuttlefish](https://github.com/ddgksf2013/Cuttlefish)
-* 野比大佬：[NobyDa](https://github.com/NobyDa/Script)
-* 自用配置：[Auto.conf](https://raw.githubusercontent.com/GodMoli/QuanX/main/File/Auto.conf) 
+|资源|链接|
+|----|-----|
+|解析器|[KOP-XIAO](https://github.com/KOP-XIAO)|
+|签到脚本|[Chavyleung](https://github.com/chavyleung)|
+|资源整合|[Cuttlefish](https://github.com/ddgksf2013/Cuttlefish)|
+|野比大佬|[NobyDa](https://github.com/NobyDa/Script)|
+|自用配置|[Auto.conf](https://raw.githubusercontent.com/GodMoli/QuanX/main/File/Auto.conf) |
 
 #### 自用配置：
     直接引用会覆盖原有配置，建议打开后直接复制相应字段使用，可自行DIY！
@@ -32,15 +34,18 @@ TG Channel：https://t.me/QuantX
     基本功能：支持B站大会员高帧，百度云会员高清观看倍速，酷我VIP资源，淘宝/京东比价，微博微信去广告等等。
 
 #### 特别感谢：
-* 图标资源库：[Qure](https://github.com/Koolson/Qure)
-* VIP资源：[Yichahucha](https://github.com/yichahucha) 
-* VIP资源：[App2smile](https://github.com/app2smile/rules)  
-* VIP资源：[Nameking77](https://github.com/nameking77/Qx/tree/main/rewrite)
-* 资源整合：[ADGai-nai](https://github.com/Zhuliyer/ADGai-nai)
-* 微博资源：[Cherish](https://github.com/zmqcherish/proxy-script)
-* 去广告：[Onewayticket255](https://github.com/onewayticket255)
-* 去广告：[Blackmatrix7](https://github.com/blackmatrix7/ios_rule_script) 
-* 规则等：[DivineEngine](https://github.com/DivineEngine)
+
+|资源|链接|
+|----|-----|
+|图标资源库|[Qure](https://github.com/Koolson/Qure)|
+|VIP资源|[Yichahucha](https://github.com/yichahucha) |
+|VIP资源|[App2smile](https://github.com/app2smile/rules)  |
+|VIP资源|[Nameking77](https://github.com/nameking77/Qx/tree/main/rewrite)|
+|资源整合|[ADGai-nai](https://github.com/Zhuliyer/ADGai-nai)|
+|微博资源|[Cherish](https://github.com/zmqcherish/proxy-script)|
+|去广告|[Onewayticket255](https://github.com/onewayticket255)|
+|去广告|[Blackmatrix7](https://github.com/blackmatrix7/ios_rule_script)| 
+|规则等|[DivineEngine](https://github.com/DivineEngine)|
 
 #### 说明 :
     只是搬运和同步更新大佬脚本.
