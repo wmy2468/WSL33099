@@ -50,7 +50,7 @@ TG Channel：https://t.me/QuantX
 *  部分去广告资源：[Blackmatrix7](https://github.com/blackmatrix7/ios_rule_script) 
 *  各种分流策略、规则等：[DivineEngine](https://github.com/DivineEngine)
 
-# 说明 :
+### 说明 :
 
 *  只是搬运和同步更新大佬脚本.
 
@@ -69,7 +69,7 @@ TG Channel：https://t.me/QuantX
 
 如果您使用并复制了任何本仓库的内容，则视为您已接受此免责声明.
 #
-# FAQ
+#### FAQ
 ### QuantumultX 莫离懒人配置
 
 配置地址：https://raw.githubusercontent.com/GodMoli/QuanX/main/File/Auto.conf
