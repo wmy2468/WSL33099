@@ -14,10 +14,6 @@ TG Channel：https://t.me/QuantX
 [![Fork](https://img.shields.io/github/forks/WSL33099/QuantumultX)](https://github.com/WSL33099/QuantumultX/network/members)
 [![Commit](https://img.shields.io/github/commit-activity/m/WSL33099/QuantumultX?label=Commits)](https://github.com/WSL33099/QuantumultX/commits/main)
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/WSL33099/QuantumultX/main/Image/XX.png" width="200" height="200" />
-</p>
-<h1 align="center">莫离</h1>
 
 ## QuantumultX
 
