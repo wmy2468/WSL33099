@@ -1,5 +1,5 @@
 /*v0.0.9*/
-const scriptName = "XiMaLaYa";
+const scriptName = "喜马拉雅广告";
 let magicJS = MagicJS(scriptName, "INFO");
 
 (() => {
