@@ -1,6 +1,5 @@
 /*v0.0.9*/
 const scriptName = "XiMaLaYa";
-const author = "ddgksf2013";
 let magicJS = MagicJS(scriptName, "INFO");
 
 (() => {
