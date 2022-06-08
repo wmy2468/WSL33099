@@ -1005,7 +1005,6 @@ HOST-KEYWORD, brushshopy, reject
 HOST-KEYWORD, onenews, reject
 HOST-SUFFIX, s96.cnzz.com, reject
 HOST-SUFFIX, yabo729.com, reject
-HOST-SUFFIX, xn--xhq9mt12cf5v.xn--io0a7i:4443, reject
 HOST-KEYWORD, xn--2qux23c9ziyrq, reject
 HOST-SUFFIX, xn--3bs795g.zone, reject
 HOST-SUFFIX, xn--2qux23c9ziyrq.plus, reject
