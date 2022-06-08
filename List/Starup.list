@@ -976,7 +976,6 @@ HOST-SUFFIX, s10.histats.com, reject
 HOST-SUFFIX, js.wpadmngr.com, reject
 HOST-SUFFIX, suzihaza.com, reject
 HOST-SUFFIX, tapioni.com, reject
-HOST-SUFFIX, qinhemuye.com:443, reject
 HOST-SUFFIX, 107iwh.cn, reject
 HOST-SUFFIX, hbhuatie.com, reject
 HOST-SUFFIX, qinzhihao.com, reject
