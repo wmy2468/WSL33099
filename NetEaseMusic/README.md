@@ -22,7 +22,7 @@
 [policy]
 
 
-static=音乐服务, server-tag-regex=Music|音乐|网易云|网易云音乐|网易音乐, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Netease_Music_Unlock.png
+static=音乐服务, server-tag-regex=(?=.*(music|𝐌𝐮𝐬𝐢𝐜|Unbolck|网易云|云音乐|Music|Netease|🎶|解锁)), img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Netease_Music_Unlock.png
 
 
 ### 1.3 为网易云音乐添加订阅
