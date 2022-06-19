@@ -3,39 +3,39 @@
 # ===================================
 # 🟢大陆服务
 GEOIP,CN, DIRECT
-host-keyword, wechat, direct
+HOST-KEYWORD, wechat, direct
 # IP-CIDR
-ip-cidr, 192.168.0.0/16, direct
-ip-cidr, 10.0.0.0/8, direct
-ip-cidr, 172.16.0.0/12, direct
-ip-cidr, 127.0.0.0/8, direct
-ip-cidr, 100.64.0.0/10, direct
-ip-cidr, 224.0.0.0/4, direct
-ip6-cidr, fe80::/10, direct
-ip-cidr, 203.107.1.1/24, reject
-ip-cidr, 183.240.197.130/32, direct
+IP-CIDR, 192.168.0.0/16, direct
+IP-CIDR, 10.0.0.0/8, direct
+IP-CIDR, 172.16.0.0/12, direct
+IP-CIDR, 127.0.0.0/8, direct
+IP-CIDR, 100.64.0.0/10, direct
+IP-CIDR, 224.0.0.0/4, direct
+IP6-CIDR, fe80::/10, direct
+IP-CIDR, 203.107.1.1/24, reject
+IP-CIDR, 183.240.197.130/32, direct
 # 关于 App Store 下载卡转圈
-host, identity.ess.apple.com, direct
-host, p18-buy.itunes.apple.com, direct
-host, stats.gc.apple.com, direct
-host, p14-buy.itunes.apple.com, direct
-host, ocsp.apple.com, direct
-host, api.smoot.apple.com,direct
+HOST, identity.ess.apple.com, direct
+HOST, p18-buy.itunes.apple.com, direct
+HOST, stats.gc.apple.com, direct
+HOST, p14-buy.itunes.apple.com, direct
+HOST, ocsp.apple.com, direct
+HOST, api.smoot.apple.com,direct
 HOST, apps.apple.com,direct
 HOST, itunes.apple.com,direct
 # 比价脚本出现问题
-host-suffix, cc.m.jd.com, direct
+HOST-SUFFIX, cc.m.jd.com, direct
 
 
 # ===================================
 # 🟢 海外服务
 # > Others
-host-keyword, sunjianbo, 海外服务
-host-keyword, jsdelivr, 海外服务
-host, ox.xmkczs.com, 海外服务
-host-suffix, appstoreconnect.apple.com, 海外服务
-host, rss.teacat001.xyz, 海外服务
-host, www.google-analytics.com, 海外服务
+HOST-KEYWORD, sunjianbo, 海外服务
+HOST-KEYWORD, jsdelivr, 海外服务
+HOST, ox.xmkczs.com, 海外服务
+HOST-SUFFIX, appstoreconnect.apple.com, 海外服务
+HOST, rss.teacat001.xyz, 海外服务
+HOST, www.google-analytics.com, 海外服务
 HOST-SUFFIX,jable.tvm,海外服务
 HOST-SUFFIX,qxzy.top,海外服务
 HOST-SUFFIX,qixinys.com,海外服务
@@ -389,7 +389,7 @@ HOST-SUFFIX,getmdl.io,海外服务
 HOST-SUFFIX,getpricetag.com,海外服务
 HOST-SUFFIX,gfw.press,海外服务
 HOST-SUFFIX,ggpht.com,海外服务
-HOST-SUFFIX,ghostnoteapp.com,海外服务
+HOST-SUFFIX,gHOSTnoteapp.com,海外服务
 HOST-SUFFIX,git.io,海外服务
 HOST-SUFFIX,gitbook.com,海外服务
 HOST-SUFFIX,globalsign.com,海外服务
@@ -809,7 +809,7 @@ HOST-SUFFIX,abc.xyz,海外服务
 HOST-SUFFIX,akamai.net,海外服务
 HOST-SUFFIX,appspot.com,海外服务
 HOST-SUFFIX,autodraw.com,海外服务
-HOST-SUFFIX,bandwagonhost.com,海外服务
+HOST-SUFFIX,bandwagonHOST.com,海外服务
 HOST-SUFFIX,blogblog.com,海外服务
 HOST-SUFFIX,chromeexperiments.com,海外服务
 HOST-SUFFIX,creativelab5.com,海外服务
