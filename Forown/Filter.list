@@ -46,7 +46,6 @@ HOST-SUFFIX, cc.m.jd.com, direct
 
 GEOIP,CN, DIRECT
 
-
 # ===================================
 # 🟢 海外服务
 # > Others
@@ -55,7 +54,7 @@ HOST-KEYWORD, jsdelivr, 海外服务
 HOST, ox.xmkczs.com, 海外服务
 HOST-SUFFIX, appstoreconnect.apple.com, 海外服务
 HOST, rss.teacat001.xyz, 海外服务
-HOST, www.google-analytics.com, 海外服务
+HOST,google-analytics.com, 海外服务
 HOST-SUFFIX,jable.tvm,海外服务
 HOST-SUFFIX,qxzy.top,海外服务
 HOST-SUFFIX,qixinys.com,海外服务
@@ -77,6 +76,28 @@ HOST-SUFFIX,mudvod.tv,海外服务
 HOST-SUFFIX,biggggg.com,海外服务
 HOST-SUFFIX,telghub.com,海外服务
 
+# > Telegram
+HOST-SUFFIX,legra.ph,海外服务
+HOST-SUFFIX,t.me,海外服务
+HOST-SUFFIX,tdesktop.com,海外服务
+HOST-SUFFIX,telegra.ph,海外服务
+HOST-SUFFIX,telegram.me,海外服务
+HOST-SUFFIX,telegram.org,海外服务
+HOST-SUFFIX,telesco.pe,海外服务
+IP-CIDR,91.108.4.0/22,海外服务
+IP-CIDR,91.108.8.0/22,海外服务
+IP-CIDR,91.108.12.0/22,海外服务
+IP-CIDR,91.108.16.0/22,海外服务
+IP-CIDR,91.108.20.0/22,海外服务
+IP-CIDR,91.108.56.0/22,海外服务
+IP-CIDR,91.105.192.0/23,海外服务
+IP-CIDR,149.154.160.0/20,海外服务
+IP-CIDR,185.76.151.0/24,海外服务
+IP6-CIDR,2001:b28:f23d::/48,海外服务
+IP6-CIDR,2001:b28:f23f::/48,海外服务
+IP6-CIDR,2001:67c:4e8::/48,海外服务
+IP6-CIDR,2001:b28:f23c::/48,海外服务
+IP6-CIDR,2a0a:f280::/32,海外服务
 # > Emby
 HOST-SUFFIX,emby-cf.plusmedia.site,海外服务
 HOST-SUFFIX,tv.emby.media,海外服务
@@ -89,15 +110,6 @@ HOST-SUFFIX,movie.xeton.dev,海外服务
 HOST-SUFFIX,servers.xeton.dev,海外服务
 IP-CIDR,38.94.111.242/32,海外服务
 IP-CIDR,38.94.111.242/22,海外服务
-
-
-# > UA
-USER-AGENT,%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5*,海外服务
-USER-AGENT,AwemeI18n*,海外服务
-USER-AGENT,Coinbase*,海外服务
-USER-AGENT,Instagram*,海外服务
-USER-AGENT,Resilio Sync*,海外服务
-USER-AGENT,WhatsApp*,海外服务
 
 # > Google Voice
 HOST,voice.telephony.goog,海外服务
@@ -116,7 +128,6 @@ HOST-SUFFIX,phncdn.com,海外服务
 HOST-SUFFIX,phprcdn.com,海外服务
 HOST-SUFFIX,pornhub.com,海外服务
 HOST-SUFFIX,pornhubpremium.com,海外服务
-
 
 # > Steam
 HOST-SUFFIX,fanatical.com,海外服务
@@ -247,7 +258,6 @@ IP-CIDR,74.119.76.0/22,海外服务
 IP-CIDR,173.194.0.0/16,海外服务
 IP-CIDR,74.125.0.0/16,海外服务
 
-
 # > LINE
 IP-CIDR,103.2.28.0/22,海外服务
 IP-CIDR,119.235.224.0/21,海外服务
@@ -262,9 +272,5 @@ IP-CIDR,203.104.103.0/24,海外服务
 IP-CIDR,203.104.128.0/20,海外服务
 IP-CIDR,203.174.66.64/26,海外服务
 IP-CIDR,203.174.77.0/24,海外服务
-
-
-
-
 
 FINAL, 海外服务
