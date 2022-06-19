@@ -1,4 +1,60 @@
-#海外服务
+# 🟢TG Channel：https://t.me/QuantX   🟢分流规则合集
+
+# ===================================
+# 🟢大陆服务
+host-keyword, wechat, direct
+# IP-CIDR
+ip-cidr, 192.168.0.0/16, direct
+ip-cidr, 10.0.0.0/8, direct
+ip-cidr, 172.16.0.0/12, direct
+ip-cidr, 127.0.0.0/8, direct
+ip-cidr, 100.64.0.0/10, direct
+ip-cidr, 224.0.0.0/4, direct
+ip6-cidr, fe80::/10, direct
+ip-cidr, 203.107.1.1/24, reject
+ip-cidr, 183.240.197.130/32, direct
+# 关于 App Store 下载卡转圈
+host, identity.ess.apple.com, direct
+host, p18-buy.itunes.apple.com, direct
+host, stats.gc.apple.com, direct
+host, p14-buy.itunes.apple.com, direct
+host, ocsp.apple.com, direct
+host, api.smoot.apple.com,direct
+HOST, apps.apple.com,direct
+HOST, itunes.apple.com,direct
+# 比价脚本出现问题
+host-suffix, cc.m.jd.com, direct
+
+
+# ===================================
+# 🟢 海外服务
+# > Others
+host-keyword, sunjianbo, 海外服务
+host-keyword, jsdelivr, 海外服务
+host, ox.xmkczs.com, 海外服务
+host-suffix, appstoreconnect.apple.com, 海外服务
+host, rss.teacat001.xyz, 海外服务
+host, www.google-analytics.com, 海外服务
+HOST-SUFFIX,jable.tvm,海外服务
+HOST-SUFFIX,qxzy.top,海外服务
+HOST-SUFFIX,qixinys.com,海外服务
+HOST-SUFFIX,javlib.com,海外服务
+HOST-SUFFIX,dwnews.com,海外服务
+HOST-SUFFIX,afreecatv.com,海外服务
+HOST-SUFFIX,play.afreecatv.com,海外服务
+HOST-SUFFIX,popkontv.com,海外服务
+HOST-SUFFIX,m1.mudvod.tv,海外服务
+HOST-SUFFIX,api.mudvod.tv,海外服务
+HOST-SUFFIX,plausible.io,海外服务
+IP-CIDR,172.67.5.189/22,海外服务
+IP-CIDR,104.22.3.179/22,海外服务
+IP-CIDR,104.22.2.179/22,海外服务
+IP-CIDR,91.108.56.123/22,海外服务
+IP-CIDR,101.32.104.41/22,海外服务
+HOST-SUFFIX,newpppp.com,海外服务
+HOST-SUFFIX,mudvod.tv,海外服务
+HOST-SUFFIX,biggggg.com,海外服务
+HOST-SUFFIX,telghub.com,海外服务
 
 # > Emby
 HOST-SUFFIX,emby-cf.plusmedia.site,海外服务
@@ -76,27 +132,6 @@ USER-AGENT,TikTok*,海外服务
 # > Zooba
 USER-AGENT,battleroyale*,海外服务
 
-# > Others
-HOST-SUFFIX,jable.tvm,海外服务
-HOST-SUFFIX,qxzy.top,海外服务
-HOST-SUFFIX,qixinys.com,海外服务
-HOST-SUFFIX,javlib.com,海外服务
-HOST-SUFFIX,dwnews.com,海外服务
-HOST-SUFFIX,afreecatv.com,海外服务
-HOST-SUFFIX,play.afreecatv.com,海外服务
-HOST-SUFFIX,popkontv.com,海外服务
-HOST-SUFFIX,m1.mudvod.tv,海外服务
-HOST-SUFFIX,api.mudvod.tv,海外服务
-HOST-SUFFIX,plausible.io,海外服务
-IP-CIDR,172.67.5.189/22,海外服务
-IP-CIDR,104.22.3.179/22,海外服务
-IP-CIDR,104.22.2.179/22,海外服务
-IP-CIDR,91.108.56.123/22,海外服务
-IP-CIDR,101.32.104.41/22,海外服务
-HOST-SUFFIX,newpppp.com,海外服务
-HOST-SUFFIX,mudvod.tv,海外服务
-HOST-SUFFIX,biggggg.com,海外服务
-HOST-SUFFIX,telghub.com,海外服务
 
 #Discord
 HOST-SUFFIX,discord.co,海外服务
