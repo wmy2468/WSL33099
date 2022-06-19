@@ -1,10 +1,12 @@
 
+# > 哈啰
+host-keyword, assets.51downapp.cn, reject
+
 # >小红书
 HOST,ads-img-qc.xhscdn.com, reject
 HOST,ads-video-al.xhscdn.com, reject
 HOST,ads-video-qc.xhscdn.com, reject
 HOST,t-ads.xiaohongshu.com, reject
-
 
 # > 哔哩哔哩
 HOST-SUFFIX,cm.bilibili.com, reject
@@ -56,8 +58,8 @@ HOST,mqtt.zhihu.com, reject
 HOST,sugar.zhihu.com, reject
 HOST,118.89.204.198, reject
 IP-CIDR,118.89.204.198/32, reject
-
 IP6-CIDR,2402:4e00:1200:ed00:0:9089:6dac:96b6/128,REJECT
+
 
 # > WiFi万能钥匙广告
 host-keyword, app.51y5.net, reject
@@ -109,6 +111,22 @@ HOST,vv.video.qq.com, reject
 HOST,wa.gtimg.com, reject
 # HOST,wxsnsdy.wxs.qq.com, reject
 # HOST,wxsnsdythumb.wxs.qq.com, reject
+# > 腾讯视频
+host-suffix, tetrack.qq.com, reject
+host-suffix, tpns.tencent.com, reject
+host-suffix, api.poll.video.qq.com, reject
+host-suffix, static-res.qq.com, reject
+host-suffix, stat.tpns.tencent.com, reject
+host, h.trace.qq.com, reject
+# > 爱奇艺
+host, cr-status.iqiyi.com, reject
+host-suffix, cupid.iqiyi.com, reject
+host, f74f7f7765f8a2f6.ngaa.net.cn, reject
+host, ef-dongfeng.tanx.com, reject
+host, iqiyim.adtrack.enlightent.cn, reject
+HOST,dig.bdurl.net, reject
+HOST,ads3-normal-lq.zijieapi.com, reject
+HOST,ads5-normal-lq.zijieapi.com, reject
 
 # > 新浪
 HOST-SUFFIX,beacon.sina.com.cn, reject
@@ -170,3 +188,24 @@ HOST-KEYWORD,ad.weibo.com,REJECT
 HOST-KEYWORD,adstrategy.biz.weibo.com,REJECT
 HOST-KEYWORD,s.weibo.com,REJECT
 HOST-KEYWORD,vs.biz.weibo.com,REJECT
+
+# > 喜马拉雅
+HOST,adbehavior.ximalaya.com, reject
+HOST,adwbs.ximalaya.com, reject
+HOST-SUFFIX,ad.test.ximalaya.com, reject
+HOST-SUFFIX,adse.test.ximalaya.com, reject
+HOST-SUFFIX,adweb.test.ximalaya.com, reject
+HOST-SUFFIX,adweb.ximalaya.com, reject
+HOST-SUFFIX,linkeye.ximalaya.com, reject
+HOST-SUFFIX,location.ximalaya.com, reject
+HOST-SUFFIX,xdcs-collector.ximalaya.com, reject
+HOST-SUFFIX,ad.ximalaya.com, reject
+HOST-SUFFIX,adse.ximalaya.com, reject
+HOST-SUFFIX,adse.wsa.ximalaya.com, reject
+HOST-SUFFIX,adbehavior.wsa.ximalaya.com, reject
+HOST-SUFFIX,adsebs.ximalaya.com, reject
+HOST-SUFFIX,adbs.ximalaya.com, reject
+
+# > HDO
+HOST-SUFFIX, applovin.com,REJECT
+HOST-SUFFIX, applvn.com,REJECT
