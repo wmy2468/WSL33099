@@ -76,6 +76,36 @@ HOST-SUFFIX,mudvod.tv,海外服务
 HOST-SUFFIX,biggggg.com,海外服务
 HOST-SUFFIX,telghub.com,海外服务
 
+# > GitHub
+HOST-SUFFIX,atom.io,香港服务
+HOST-SUFFIX,dependabot.com,香港服务
+HOST-SUFFIX,ghcr.io,香港服务
+HOST-SUFFIX,git.io,香港服务
+HOST-SUFFIX,github-atom-io-herokuapp-com.freetls.fastly.net,香港服务
+HOST-SUFFIX,github-avatars.oss-cn-hongkong.aliyuncs.com,香港服务
+HOST-SUFFIX,github-cloud.s3.amazonaws.com,香港服务
+HOST-SUFFIX,github.blog,香港服务
+HOST-SUFFIX,github.com,香港服务
+HOST-SUFFIX,github.community,香港服务
+HOST-SUFFIX,github.dev,香港服务
+HOST-SUFFIX,github.io,香港服务
+HOST-SUFFIX,githubapp.com,香港服务
+HOST-SUFFIX,githubassets.com,香港服务
+HOST-SUFFIX,githubhackathon.com,香港服务
+HOST-SUFFIX,githubpreview.dev,香港服务
+HOST-SUFFIX,githubstatus.com,香港服务
+HOST-SUFFIX,githubuniverse.com,香港服务
+HOST-SUFFIX,githubusercontent.com,香港服务
+HOST-SUFFIX,myoctocat.com,香港服务
+HOST-SUFFIX,npm.community,香港服务
+HOST-SUFFIX,npmjs.com,香港服务
+HOST-SUFFIX,npmjs.org,香港服务
+HOST-SUFFIX,opensource.guide,香港服务
+HOST-SUFFIX,rawgit.com,香港服务
+HOST-SUFFIX,rawgithub.com,香港服务
+HOST-SUFFIX,thegithubshop.com,香港服务
+HOST-KEYWORD,github,香港服务
+
 # > Telegram
 HOST-SUFFIX,legra.ph,海外服务
 HOST-SUFFIX,t.me,海外服务
@@ -112,7 +142,7 @@ IP-CIDR,38.94.111.242/32,海外服务
 IP-CIDR,38.94.111.242/22,海外服务
 
 # > Google Voice
-HOST,voice.telephony.goog,海外服务
+HOST,lens.l.google.com,美国服务
 
 # > Line
 HOST-SUFFIX,lin.ee,海外服务
