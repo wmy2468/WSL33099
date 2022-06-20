@@ -10,4 +10,4 @@ var subtitle = obj['city'];
 var description = "国家" + ":" + obj['country'] + '\n' + "城市" + ":" + obj['city'];
 
 
-$done({title, subtitle, ip, description});
+$done({title, subtitle});
