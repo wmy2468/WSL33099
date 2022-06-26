@@ -243,4 +243,3 @@ IP-CIDR,74.125.0.0/16,海外服务
 # >Geolite 
 GEOIP,US, 美国服务
 GEOIP,HK, 香港服务
-final, 海外服务
