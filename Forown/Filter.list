@@ -46,7 +46,7 @@ HOST, apps.apple.com,direct
 HOST, itunes.apple.com,direct
 # 比价脚本出现问题
 HOST-SUFFIX, cc.m.jd.com, direct
-
+# Geolite
 GEOIP,CN, DIRECT
 
 # ===================================
@@ -150,26 +150,6 @@ HOST-SUFFIX,phprcdn.com,海外服务
 HOST-SUFFIX,pornhub.com,海外服务
 HOST-SUFFIX,pornhubpremium.com,海外服务
 
-# > TikTok
-HOST,p16-tiktokcdn-com.akamaized.net,海外服务
-HOST-SUFFIX,byteoversea.com,海外服务
-HOST-SUFFIX,ibytedtos.com,海外服务
-HOST-SUFFIX,ibyteimg.com,海外服务
-HOST-SUFFIX,ipstatp.com,海外服务
-HOST-SUFFIX,muscdn.com,海外服务
-HOST-SUFFIX,musical.ly,海外服务
-HOST-SUFFIX,sgpstatp.com,海外服务
-HOST-SUFFIX,snssdk.com,海外服务
-HOST-SUFFIX,tik-tokapi.com,海外服务
-HOST-SUFFIX,tiktok.com,海外服务
-HOST-SUFFIX,tiktokcdn.com,海外服务
-HOST-SUFFIX,tiktokv.com,海外服务
-HOST-KEYWORD,-tiktokcdn-com,海外服务
-HOST-KEYWORD,musical.ly,海外服务
-HOST-KEYWORD,tiktok,海外服务
-HOST-KEYWORD,tiktokv,海外服务
-USER-AGENT,TikTok*,海外服务
-
 # > Spotify
 HOST-SUFFIX,audio-ak-spotify-com.akamaized.net,海外服务
 HOST-SUFFIX,byspotify.com,海外服务
@@ -271,6 +251,6 @@ IP-CIDR,74.119.76.0/22,海外服务
 # > Google
 IP-CIDR,173.194.0.0/16,海外服务
 IP-CIDR,74.125.0.0/16,海外服务
-
+# >Geolite 
 GEOIP,US, 美国服务
 GEOIP,HK, 香港服务
