@@ -18,7 +18,8 @@ HOST-SUFFIX,cm.track.biligame.bilibili.com, reject
 
 # > 淘宝
 HOST-SUFFIX,apoll.m.taobao.com, reject
-HOST-SUFFIX,h-adashx.ut.taobao.com, reject
+# 淘宝图片发不出去
+# HOST-SUFFIX,h-adashx.ut.taobao.com, reject
 HOST-SUFFIX,w.m.taobao.com, reject
 HOST,tunion-api.m.taobao.com, reject
 HOST-SUFFIX,ai.m.taobao.com, reject
