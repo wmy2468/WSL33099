@@ -1,7 +1,9 @@
-# 🟢TG Channel：https://t.me/QuantX   🟢分流规则合集
-# 🟢Geolite：https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb
-
 # ===================================
+# 🟢分流规则合集
+# 🟢TG Channel：https://t.me/QuantX  
+# 🟢Geolite：https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb
+# ===================================
+
 # 🟢大陆服务
 # 微信
 HOST-KEYWORD, wechat, direct
@@ -142,30 +144,11 @@ HOST-SUFFIX,servers.xeton.dev,海外服务
 IP-CIDR,38.94.111.242/32,海外服务
 IP-CIDR,38.94.111.242/22,海外服务
 
-# > Google Voice
-HOST,lens.l.google.com,美国服务
-
-# > Line
-HOST-SUFFIX,lin.ee,海外服务
-HOST-SUFFIX,line.me,海外服务
-HOST-SUFFIX,line.naver.jp,海外服务
-HOST-SUFFIX,line-apps.com,海外服务
-HOST-SUFFIX,line-cdn.net,海外服务
-HOST-SUFFIX,line-scdn.net,海外服务
-HOST-SUFFIX,nhncorp.jp,海外服务
-
 # > Pornhub
 HOST-SUFFIX,phncdn.com,海外服务
 HOST-SUFFIX,phprcdn.com,海外服务
 HOST-SUFFIX,pornhub.com,海外服务
 HOST-SUFFIX,pornhubpremium.com,海外服务
-
-# > Steam
-HOST-SUFFIX,fanatical.com,海外服务
-HOST-SUFFIX,humblebundle.com,海外服务
-HOST-SUFFIX,steamcommunity.com,海外服务
-HOST-SUFFIX,steampowered.com,海外服务
-HOST-SUFFIX,steamstatic.com,海外服务
 
 # > TikTok
 HOST,p16-tiktokcdn-com.akamaized.net,海外服务
@@ -289,19 +272,5 @@ IP-CIDR,74.119.76.0/22,海外服务
 IP-CIDR,173.194.0.0/16,海外服务
 IP-CIDR,74.125.0.0/16,海外服务
 
-# > LINE
-IP-CIDR,103.2.28.0/22,海外服务
-IP-CIDR,119.235.224.0/21,海外服务
-IP-CIDR,119.235.232.0/23,海外服务
-IP-CIDR,119.235.235.0/24,海外服务
-IP-CIDR,119.235.236.0/23,海外服务
-IP-CIDR,125.6.146.0/24,海外服务
-IP-CIDR,125.6.149.0/24,海外服务
-IP-CIDR,125.6.190.0/24,海外服务
-IP-CIDR,125.209.208.0/20,海外服务
-IP-CIDR,203.104.103.0/24,海外服务
-IP-CIDR,203.104.128.0/20,海外服务
-IP-CIDR,203.174.66.64/26,海外服务
-IP-CIDR,203.174.77.0/24,海外服务
 GEOIP,US, 美国服务
 GEOIP,HK, 香港服务
