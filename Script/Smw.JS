@@ -1,14 +1,15 @@
 /*
 ###################################
-# TG Channel：https://t.me/QuantX
-# 修改内容：解锁高级账户 
-# 注意事项：每次解锁需启动圈叉
+TG Channel：https://t.me/QuantX
+修改内容：解锁高级账户 
+注意事项：每次解锁需启动圈叉
 ####################################
+
 [rewrite_local]
 # 扫描全能王 pro
 ^https:\/\/(api|api-cs)\.intsig\.net\/purchase\/cs\/query_property\? url script-response-body https://raw.githubusercontent.com/WSL33099/QuantumultX/main/Script/Smw.JS
-主机名MITM
-ap*.intsig.net
+[mitm]
+hostname= ap*.intsig.net
 
 */
 
