@@ -7,7 +7,7 @@ TG Channel：https://t.me/QuantX
 
 [rewrite_local]
 # 扫描全能王 pro
-^https:\/\/(api|api-cs)\.intsig\.net\/purchase\/cs\/query_property\? url script-response-body https://raw.githubusercontent.com/WSL33099/QuantumultX/main/Script/Smw.JS
+^https:\/\/(api|api-cs)\.intsig\.net\/purchase\/cs\/query_property\? url script-response-body https://raw.githubusercontent.com/WSL33099/QuantumultX/main/Script/Smw.js
 [mitm]
 hostname= ap*.intsig.net
 
