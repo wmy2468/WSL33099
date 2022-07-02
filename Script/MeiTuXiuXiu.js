@@ -7,6 +7,11 @@ TG Channel：https://t.me/QuantX
 脚本作者：R·E
 注意事项：每次解锁需启动圈叉
 ##############################
+本地重写
+[rewrite_local]
+^https?:\/\/(h5|api)\.xiuxiu\.meitu\.com\/v\d\/(h\d\/vip|vip|user)\/ url script-response-body https://raw.githubusercontent.com/WSL33099/QuantumultX/main/Script/MeiTuXiuXiu.js
+[mitm]
+hostname= *.xiuxiu.meitu.com
 *
 */
  
