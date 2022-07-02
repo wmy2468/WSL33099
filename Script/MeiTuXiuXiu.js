@@ -5,6 +5,7 @@ TG Channel：https://t.me/QuantX
 苹果商店下载:美图秀秀
 修改内容：解锁永久会员
 脚本作者：R·E
+原链接：https://raw.githubusercontent.com/I-am-R-E/QuantumultX/main/JavaScript/MeiTuXiuXiu.js
 注意事项：每次解锁需启动圈叉
 ##############################
 本地重写
