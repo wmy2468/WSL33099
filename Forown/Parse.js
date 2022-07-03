@@ -238,12 +238,6 @@ if (typeof($resource)!=="undefined" && PProfile == 0) {
   $done({content:total})
 }
 
-
-/**
-# 以下为具体的 function
-
-*/
-
 function ParseUnknown(cnt){
   try {
     cnt = JSON.parse(cnt)
