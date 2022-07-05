@@ -1,8 +1,12 @@
-
 /**
- * @fileoverview Template to compose HTTP reqeuest.
- * 
- */
+*
+###############################
+TG Channel：https://t.me/QuantX
+苹果商店下载: 手机硬件管家
+修改内容：无限刷积分 
+############################## 
+*
+*/
 
 const url = `https://a.591master.com/5.0.0/uicommon/reward`;
 const method = `POST`;
