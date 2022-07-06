@@ -168,7 +168,7 @@ HOST-SUFFIX,spotifycodes.com,美国服务
 HOST-SUFFIX,spotifyforbrands.com,美国服务
 HOST-SUFFIX,spotifyjobs.com,美国服务
 HOST-KEYWORD,-spotify-com,美国服务
-HOST-KEYWORD,spotify.com,美国服务务
+HOST-KEYWORD,spotify.com,美国服务
 USER-AGENT,*Spotify*,美国服务
 USER-AGENT,Spotify*,美国服务
 IP-CIDR,35.186.224.47/32,美国服务
