@@ -7,8 +7,8 @@
 *******************************
 [rewrite_local]
 # > WPS解锁稻壳会员
-^https?:\/\/account\.wps\.cn\/api\/v3\/mine\/vips url script-response-body https://raw.githubusercontent.com/WSL33099/QuantumultX/main/Script/Wps.js
-^https?:\/\/.+\.(docer.)?wps.cn\/(user\/v1\/vip|android\/mb\/buy|download\/v1\/ios|partner\/invoke\/usable|(api|rank)\/v1(\/mobile\/mb)?\/detail) url script-request-header https://raw.githubusercontent.com/WSL33099/QuantumultX/main/Script/Wps.js
+^https?:\/\/account\.wps\.cn\/api\/v3\/mine\/vips url script-response-body https://raw.githubusercontent.com/WSL33099/QuantumultX/main/Script/WpsUser.js
+^https?:\/\/.+\.(docer.)?wps.cn\/(user\/v1\/vip|android\/mb\/buy|download\/v1\/ios|partner\/invoke\/usable|(api|rank)\/v1(\/mobile\/mb)?\/detail) url script-request-header https://raw.githubusercontent.com/WSL33099/QuantumultX/main/Script/WpsVip.js
 
 [mitm] 
 hostname = *.docer.wps.cn, vipapi.wps.cn, account.wps.cn
